@@ -7,7 +7,7 @@ A professionally-curated list of resources on everything decision making.
 
 - [Optimization](#optimization)
 
-## Section
+## Optimization
 
 About this section. Optional. Keep this short and focus on the list.
 
