@@ -76,4 +76,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia.](https://otexts.com/fpp3/)
 
 ### Packages
+- [HierarchicalForecast](https://nixtla.github.io/hierarchicalforecast/)
+- [mlforecast](https://nixtla.github.io/mlforecast/)
+- [NeuralForecast](https://nixtla.github.io/neuralforecast/)
+- [StatsForecast](https://nixtla.github.io/statsforecast/)
+
 ### Papers
