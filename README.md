@@ -7,16 +7,15 @@ A professionally curated list of resources on everything decision-making.
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## 💡 Contents
-
-- [Deep Learning](#deep-learning)
-- [Geospatial Analysis](#geospatial-analysis)
-- [Graph Analysis](#graph-analysis)
-- [Machine Learning](#machine-learning)
-- [Operations Research & Optimization](#operations-research-&-optimization)
-- [Programming](#programming)
-- [Statistical Modeling](#statistical-modeling)
-- [Text Mining](#text-mining)
-- [Time Series](#time-series)
+- [Deep Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-deep-learning)
+- [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
+- [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
+- [Machine Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-machine-learning)
+- [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research-&-optimization)
+- [Programming](https://github.com/mpalenciaolivar/awesome-decision-science#-programming)
+- [Statistical Modeling](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling)
+- [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
+- [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
 
 ## 🦾 Deep Learning
 ### Books
