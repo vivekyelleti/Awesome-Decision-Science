@@ -29,18 +29,21 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org/)
 ### Packages
 ### Papers
+### Videos
 
 ## 🗺️ Geospatial Analysis
 ### Books
 - [Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019.](https://r.geocompx.org/)
 ### Packages
 ### Papers
+### Videos
 
 ## 🧑‍🤝‍🧑 Graph Analysis
 ### Books
 - [McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and python. CRC Press, 2022.](https://ona-book.org/index.html)
 ### Packages
 ### Papers
+### Videos
 
 ## 🤖 Machine Learning
 ### Books
@@ -50,6 +53,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023.](https://probml.github.io/pml-book/book2.html)
 ### Packages
 ### Papers
+### Videos
+- [*Mutual Information*, a YT channel that explains ML to beginners](https://www.youtube.com/@Mutual_Information)
 
 ## 🚀 Operations Research & Optimization
 ### Books
@@ -58,24 +63,28 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022.](https://mdobook.github.io/)
 ### Packages
 ### Papers
+### Videos
 
 ## 💻 Programming
 ### Books
 - [Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022.](https://www.tmwr.org/index.html)
 ### Packages
 ### Papers
+### Videos
 
 ## 📈 Statistical Modeling
 ### Books
 - [McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021.](https://peopleanalytics-regression-book.org/index.html)
 ### Packages
 ### Papers
+### Videos
 
 ## 📖 Text Mining
 ### Books
 - [Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017.](https://www.tidytextmining.com/)
 ### Packages
 ### Papers
+### Videos
 
 ## 💹 Time Series
 ### Books
@@ -86,3 +95,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [NeuralForecast](https://nixtla.github.io/neuralforecast/)
 - [StatsForecast](https://nixtla.github.io/statsforecast/)
 ### Papers
+### Videos
