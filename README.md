@@ -17,40 +17,41 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Text Mining](#text-mining)
 - [Time Series](#time-series)
 
-## Deep Learning
+## 🦾 Deep Learning
 ### Books
 - [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org/)
 
 ### Packages
 ### Papers
 
-## Geospatial Analysis
+## 🗺️ Geospatial Analysis
 ### Books
 - [Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019.](https://r.geocompx.org/)
 
 ### Packages
 ### Papers
 
-## Graph Analysis
+## 🧑‍🤝‍🧑 Graph Analysis
 ### Books
 - [McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and python. CRC Press, 2022.](https://ona-book.org/index.html)
 
 ### Packages
 ### Papers
 
-## Machine Learning
+## 🤖 Machine Learning
 ### Books
-- [James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023.](https://www.statlearning.com/)
-
-### Packages
-### Papers
 - [Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006.](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+
+- [James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023.](https://www.statlearning.com/)
 
 - [Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022.](https://probml.github.io/pml-book/book1.html)
 
 - [Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023.](https://probml.github.io/pml-book/book2.html)
 
-## Optimization
+### Packages
+### Papers
+
+## 🚀 Optimization
 ### Books
 - [Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
 
@@ -59,18 +60,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### Packages
 ### Papers
 
-## Programming
+## 💻 Programming
 ### Books
 - [Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022.](https://www.tmwr.org/index.html)
 
 ### Packages
 ### Papers
 
-## Text Mining
+## 📖 Text Mining
 ### Books
 - [Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017.](https://www.tidytextmining.com/)
 
-## Time Series
+## 📈 Time Series
 ### Books
 - [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia.](https://otexts.com/fpp3/)
 
