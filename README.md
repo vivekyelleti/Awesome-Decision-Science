@@ -6,7 +6,7 @@ A professionally curated list of resources on everything decision-making.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## Contents
+## 💡 Contents
 
 - [Deep Learning](#deep-learning)
 - [Geospatial Analysis](#geospatial-analysis)
