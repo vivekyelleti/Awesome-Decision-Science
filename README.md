@@ -2,10 +2,6 @@
 
 A professionally curated list of resources on everything decision-making.
 
-## Contributing
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## 💡 Contents
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Deep Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-deep-learning)
