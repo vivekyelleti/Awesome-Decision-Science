@@ -7,6 +7,7 @@ A professionally curated list of resources on everything decision-making.
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## 💡 Contents
+- [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization-&-reporting)
 - [Deep Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-deep-learning)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
@@ -16,6 +17,13 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Statistical Modeling](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
 - [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
+
+## 📊 Data Visualization & Reporting
+### Books
+
+### Packages
+### Papers
+- [Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019.](https://clauswilke.com/dataviz/)
 
 ## 🦾 Deep Learning
 ### Books
