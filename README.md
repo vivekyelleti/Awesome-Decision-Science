@@ -12,8 +12,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Geospatial Analysis](#geospatial-analysis)
 - [Graph Analysis](#graph-analysis)
 - [Machine Learning](#machine-learning)
-- [Optimization](#optimization)
+- [Operations Research & Optimization](#operations-research-&-optimization)
 - [Programming](#programming)
+- [Statistical Modeling](#statistical-modeling)
 - [Text Mining](#text-mining)
 - [Time Series](#time-series)
 
@@ -41,20 +42,17 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## 🤖 Machine Learning
 ### Books
 - [Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006.](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-
 - [James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023.](https://www.statlearning.com/)
-
 - [Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022.](https://probml.github.io/pml-book/book1.html)
-
 - [Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023.](https://probml.github.io/pml-book/book2.html)
 
 ### Packages
 ### Papers
 
-## 🚀 Optimization
+## 🚀 Operations Research & Optimization
 ### Books
 - [Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
-
+- [Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019.](https://juliabook.chkwon.net/book/frontmatter)
 - [Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022.](https://mdobook.github.io/)
 
 ### Packages
@@ -67,11 +65,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### Packages
 ### Papers
 
+## 📈 Statistical Modeling
+### Books
+- [McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021.](https://peopleanalytics-regression-book.org/index.html)
+
+### Packages
+### Papers
+
 ## 📖 Text Mining
 ### Books
 - [Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017.](https://www.tidytextmining.com/)
 
-## 📈 Time Series
+## 💹 Time Series
 ### Books
 - [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia.](https://otexts.com/fpp3/)
 
