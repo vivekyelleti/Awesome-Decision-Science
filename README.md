@@ -70,16 +70,9 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 💻 Programming
-### Books
-- [Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022.](https://www.tmwr.org/index.html)
-### Courses and tutorials
-### Packages
-### Papers
-### Videos
-
 ## 📈 Statistical Modeling
 ### Books
+- [Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022.](https://www.tmwr.org/index.html)
 - [McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021.](https://peopleanalytics-regression-book.org/index.html)
 ### Courses and tutorials
 ### Packages
