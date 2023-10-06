@@ -25,7 +25,7 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org/)
 ### Courses and tutorials
-- [Deep Learning course from the University of Amsterdam](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+- [Lippe, Phillip. UvA Deep Learning Tutorials. 2022.](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Packages
 ### Papers
 ### Videos
