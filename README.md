@@ -49,6 +49,8 @@ A professionally curated list of resources on everything decision-making.
 - [Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023.](https://probml.github.io/pml-book/book2.html)
 ### Packages
 ### Papers
+- [*Awesome conformal prediction*, an awesome list about everything Conformal Prediction-related.](https://github.com/valeman/awesome-conformal-prediction)
+
 ### Videos
 - [*Mutual Information*, a YT channel that explains ML to beginners](https://www.youtube.com/@Mutual_Information)
 
