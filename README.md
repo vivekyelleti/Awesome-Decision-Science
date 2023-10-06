@@ -29,6 +29,7 @@ A professionally curated list of resources on everything decision-making.
 - [Lippe, Phillip. UvA Deep Learning Tutorials. 2022.](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Packages
 ### Papers
+- [Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020.](https://arxiv.org/abs/2104.12053)
 ### Videos
 
 ## 🗺️ Geospatial Analysis
