@@ -20,6 +20,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 ### Papers
+### Videos
 
 ## 🦾 Deep Learning
 ### Books
