@@ -4,10 +4,10 @@ A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
 - [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
+- [Artificial Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence)
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Artificial Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence)
 - [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research--optimization)
 - [Statistical Modeling](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
