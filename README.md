@@ -66,6 +66,8 @@ A professionally curated list of resources on everything decision-making.
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [Link](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Packages
+#### Machine Learning
+  - Catboost. A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU. [Link](https://catboost.ai/)
 ### Papers
 #### Deep Learning
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [Link](https://arxiv.org/abs/2104.12053)
