@@ -103,6 +103,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 #### Python
+  - Functime. [Link](https://github.com/neocortexdb/functime)
   - HierarchicalForecast. [Link](https://nixtla.github.io/hierarchicalforecast/)
   - mlforecast. [Link](https://nixtla.github.io/mlforecast/)
   - NeuralForecast. [Link](https://nixtla.github.io/neuralforecast/)
