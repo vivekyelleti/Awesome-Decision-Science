@@ -50,6 +50,7 @@ A professionally curated list of resources on everything decision-making.
 ## 🤖 Artificial Intelligence
 ### Books
 #### Deep Learning
+- Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [Link](https://mml-book.github.io/)
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016. [Link](https://www.deeplearningbook.org/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006. [Link](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
