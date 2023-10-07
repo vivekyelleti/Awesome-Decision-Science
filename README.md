@@ -28,6 +28,11 @@ A professionally curated list of resources on everything decision-making.
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [Link](https://clauswilke.com/dataviz/)
 ### Courses and tutorials
 ### Packages
+#### Python
+  - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [Link](https://docs.kanaries.net/pygwalker)
+  - Streamlit. A faster way to build and share data apps. [Link](https://streamlit.io/)
+#### Julia
+  - Genie. 🧞The highly productive Julia web framework. [Link](https://genieframework.com/)
 ### Papers
 ### Videos
 
@@ -103,10 +108,10 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 #### Python
-  - Functime. [Link](https://github.com/neocortexdb/functime)
-  - HierarchicalForecast. [Link](https://nixtla.github.io/hierarchicalforecast/)
-  - mlforecast. [Link](https://nixtla.github.io/mlforecast/)
-  - NeuralForecast. [Link](https://nixtla.github.io/neuralforecast/)
-  - StatsForecast. [Link](https://nixtla.github.io/statsforecast/)
+  - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [Link](https://github.com/neocortexdb/functime)
+  - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [Link](https://nixtla.github.io/hierarchicalforecast/)
+  - mlforecast. Scalable machine 🤖 learning for time series forecasting. [Link](https://nixtla.github.io/mlforecast/)
+  - NeuralForecast. Scalable and user friendly neural 🧠 forecasting algorithms. [Link](https://nixtla.github.io/neuralforecast/)
+  - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [Link](https://nixtla.github.io/statsforecast/)
 ### Papers
 ### Videos
