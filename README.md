@@ -71,6 +71,16 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
+## 💻 Algorithms, Data Structures, and Software Engineering
+### Books
+- [Downey, Allen. Think python. " O'Reilly Media, Inc.", 2012.](https://greenteapress.com/wp/think-python-2e/)
+- [Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018.](https://www.greenteapress.com/complexity/)
+- [Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017.](https://greenteapress.com/wp/think-data-structures/)
+### Courses and tutorials
+### Packages
+### Papers
+### Videos
+
 ## 📈 Statistical Modeling
 ### Books
 - [Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022.](https://www.tmwr.org/index.html)
