@@ -3,16 +3,26 @@
 A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
+- [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Deep Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-deep-learning)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Machine Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-machine-learning)
 - [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research--optimization)
-- [Programming](https://github.com/mpalenciaolivar/awesome-decision-science#-programming)
 - [Statistical Modeling](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
 - [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
+
+## 💻 Algorithms, Data Structures, and Software Engineering
+### Books
+- [Downey, Allen. Think python. " O'Reilly Media, Inc.", 2012.](https://greenteapress.com/wp/think-python-2e/)
+- [Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018.](https://www.greenteapress.com/complexity/)
+- [Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017.](https://greenteapress.com/wp/think-data-structures/)
+### Courses and tutorials
+### Packages
+### Papers
+### Videos
 
 ## 📊 Data Visualization & Reporting
 ### Books
@@ -66,16 +76,6 @@ A professionally curated list of resources on everything decision-making.
 - [Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
 - [Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019.](https://juliabook.chkwon.net/book/frontmatter)
 - [Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022.](https://mdobook.github.io/)
-### Courses and tutorials
-### Packages
-### Papers
-### Videos
-
-## 💻 Algorithms, Data Structures, and Software Engineering
-### Books
-- [Downey, Allen. Think python. " O'Reilly Media, Inc.", 2012.](https://greenteapress.com/wp/think-python-2e/)
-- [Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018.](https://www.greenteapress.com/complexity/)
-- [Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017.](https://greenteapress.com/wp/think-data-structures/)
 ### Courses and tutorials
 ### Packages
 ### Papers
