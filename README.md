@@ -5,10 +5,9 @@ A professionally curated list of resources on everything decision-making.
 ## 💡 Contents
 - [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
-- [Deep Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-deep-learning)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Machine Learning](https://github.com/mpalenciaolivar/awesome-decision-science#-machine-learning)
+- [Artificial Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence)
 - [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research--optimization)
 - [Statistical Modeling](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
@@ -32,16 +31,6 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 🦾 Deep Learning
-### Books
-- [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org/)
-### Courses and tutorials
-- [Lippe, Phillip. UvA Deep Learning Tutorials. 2022.](https://uvadlc-notebooks.readthedocs.io/en/latest/)
-### Packages
-### Papers
-- [Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020.](https://arxiv.org/abs/2104.12053)
-### Videos
-
 ## 🗺️ Geospatial Analysis
 ### Books
 - [Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019.](https://r.geocompx.org/)
@@ -58,15 +47,23 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 🤖 Machine Learning
+## 🤖 Artificial Intelligence
 ### Books
+#### Deep Learning
+- [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org/)
+#### Machine Learning
 - [Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006.](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - [James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023.](https://www.statlearning.com/)
 - [Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022.](https://probml.github.io/pml-book/book1.html)
 - [Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023.](https://probml.github.io/pml-book/book2.html)
 ### Courses and tutorials
+#### Deep Learning
+- [Lippe, Phillip. UvA Deep Learning Tutorials. 2022.](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Packages
 ### Papers
+#### Deep Learning
+- [Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020.](https://arxiv.org/abs/2104.12053)
+#### Machine Learning
 - [*Awesome conformal prediction*, an awesome list about everything Conformal Prediction-related.](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
 - [*Mutual Information*, a YT channel that explains ML to beginners](https://www.youtube.com/@Mutual_Information)
