@@ -9,7 +9,7 @@ A professionally curated list of resources on everything decision-making.
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research--optimization)
-- [Statistical Modeling, Statistical Programming, and Probabilistic Graphical Models](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling-and-programming)
+- [Statistical Modeling, Statistical Programming, and Probabilistic Graphical Models](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-statistical-modeling-statistical-programming-and-probabilistic-graphical-models)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
 - [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
 
