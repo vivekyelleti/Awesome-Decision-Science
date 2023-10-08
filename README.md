@@ -72,7 +72,7 @@ A professionally curated list of resources on everything decision-making.
 #### Deep Learning
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 #### Machine Learning
-- Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022, https://doi.org10.5281/zenodo.6467205. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
+- Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
 - *Mutual Information*, a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
 
