@@ -93,7 +93,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 ### Papers
-- Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [Paper](https://www.math.wm.edu/~leemis/2008amstat.pdf) [Website](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
+- Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 ### Videos
 
 ## 📖 Text Mining
