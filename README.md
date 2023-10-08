@@ -9,7 +9,7 @@ A professionally curated list of resources on everything decision-making.
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Operations Research & Optimization](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research--optimization)
-- [Statistical Modeling and Programming](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling-and-programming)
+- [Statistical Modeling, Statistical Programming, and Probabilistic Graphical Models](https://github.com/mpalenciaolivar/awesome-decision-science#-statistical-modeling-and-programming)
 - [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
 - [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
 
@@ -70,7 +70,6 @@ A professionally curated list of resources on everything decision-making.
   - Catboost. A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
 ### Papers
 #### Deep Learning
-- Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 #### Machine Learning
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
@@ -87,7 +86,7 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 📈 Statistical Modeling and Programming
+## 📈 Statistical Modeling, Statistical Programming, and Probabilistic Graphical Models
 ### Books
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
@@ -95,6 +94,8 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 ### Papers
+- Arbel, Julyan, et al. ‘A Primer on Bayesian Neural Networks: Review and Debates’. arXiv [Stat.ML], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
+- Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 ### Videos
 
