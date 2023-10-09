@@ -75,10 +75,11 @@ A professionally curated list of resources on everything decision-making.
 ### Videos
 - *Mutual Information*, a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
 
-## 🚀 Operations Research & Optimization
+## 🚀 Operations Research, Optimization, and Simulations
 ### Books
 - Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
 - Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
+- Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 ### Courses and tutorials
