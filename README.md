@@ -87,7 +87,7 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 📈 Statistical Modeling, Statistical Programming, Econometrics, and Probabilistic Graphical Models
+## 📈 Statistical Modeling, Statistical Programming, and Econometrics
 ### Books
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
@@ -113,7 +113,7 @@ A professionally curated list of resources on everything decision-making.
 ## 💹 Time Series
 ### Books
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
-- Neusser, Klaus. Time series econometrics. springer publication, 2016. [[Link]](https://link.springer.com/book/10.1007/978-3-319-32862-1)
+- Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://link.springer.com/book/10.1007/978-3-319-32862-1)
 ### Courses and tutorials
 ### Packages
 #### Python
