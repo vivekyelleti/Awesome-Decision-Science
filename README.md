@@ -83,6 +83,7 @@ A professionally curated list of resources on everything decision-making.
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 ### Courses and tutorials
+- Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
 ### Packages
 ### Papers
 ### Videos
