@@ -110,6 +110,7 @@ A professionally curated list of resources on everything decision-making.
 ## 💹 Time Series
 ### Books
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
+- Neusser, Klaus. Time series econometrics. springer publication, 2016. [[Link]](https://link.springer.com/book/10.1007/978-3-319-32862-1)
 ### Courses and tutorials
 ### Packages
 #### Python
