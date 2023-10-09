@@ -93,6 +93,7 @@ A professionally curated list of resources on everything decision-making.
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
+- Van Buuren, Stef. Flexible imputation of missing data. CRC Press, 2018. [[Link]](https://stefvanbuuren.name/fimd/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.google.fr/books/edition/Introductory_Econometrics_A_Modern_Appro/0p9_tQEACAAJ?hl=fr)
 ### Courses and tutorials
