@@ -46,7 +46,7 @@ A professionally curated list of resources on everything decision-making.
 
 ## 🧑‍🤝‍🧑 Graph Analysis
 ### Books
-- McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
+- McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 ### Courses and tutorials
 ### Packages
 ### Papers
@@ -56,29 +56,29 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 #### Deep Learning
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
-- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016. [[Link]](https://www.deeplearningbook.org/)
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
 #### Machine Learning
-- Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
-- Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
-- Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
+- Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
+- Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 ### Courses and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Packages
 #### Machine Learning
-  - Catboost. A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
+  - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
 ### Papers
 #### Deep Learning
 #### Machine Learning
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
-- *Mutual Information*, a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
+- *Mutual Information* is a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
 
 ## 🚀 Operations Research, Optimization, and Simulations
 ### Books
 - Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
-- Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
+- Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
 - Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
@@ -95,7 +95,7 @@ A professionally curated list of resources on everything decision-making.
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
 - Van Buuren, Stef. Flexible imputation of missing data. CRC Press, 2018. [[Link]](https://stefvanbuuren.name/fimd/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
-- Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.google.fr/books/edition/Introductory_Econometrics_A_Modern_Appro/0p9_tQEACAAJ?hl=fr)
+- Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 ### Courses and tutorials
 ### Packages
 ### Papers
@@ -116,7 +116,7 @@ A professionally curated list of resources on everything decision-making.
 ## 💹 Time Series
 ### Books
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
-- Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://link.springer.com/book/10.1007/978-3-319-32862-1)
+- Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
 ### Courses and tutorials
 ### Packages
 #### Python
