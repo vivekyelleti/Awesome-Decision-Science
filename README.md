@@ -4,7 +4,7 @@ A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
 - [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
-- [Artificial Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence)
+- [Artificial Intelligence and Computational Intelligence](https://github.com/cognitive-works-consulting/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
@@ -18,35 +18,6 @@ A professionally curated list of resources on everything decision-making.
 - Downey, Allen. Think python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
 - Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
-### Courses and tutorials
-### Packages
-### Papers
-### Videos
-
-## 📊 Data Visualization & Reporting
-### Books
-- Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
-### Courses and tutorials
-### Packages
-#### Python
-  - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
-  - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
-#### Julia
-  - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
-### Papers
-### Videos
-
-## 🗺️ Geospatial Analysis
-### Books
-- Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
-### Courses and tutorials
-### Packages
-### Papers
-### Videos
-
-## 🧑‍🤝‍🧑 Graph Analysis
-### Books
-- McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 ### Courses and tutorials
 ### Packages
 ### Papers
@@ -76,6 +47,35 @@ A professionally curated list of resources on everything decision-making.
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
 - *Mutual Information* is a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
+
+## 📊 Data Visualization & Reporting
+### Books
+- Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
+### Courses and tutorials
+### Packages
+#### Python
+  - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
+  - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
+#### Julia
+  - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
+### Papers
+### Videos
+
+## 🗺️ Geospatial Analysis
+### Books
+- Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
+### Courses and tutorials
+### Packages
+### Papers
+### Videos
+
+## 🧑‍🤝‍🧑 Graph Analysis
+### Books
+- McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
+### Courses and tutorials
+### Packages
+### Papers
+### Videos
 
 ## 🚀 Operations Research, Optimization, and Simulations
 ### Books
