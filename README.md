@@ -52,8 +52,10 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence and Computational Intelligence
 ### Books
+#### Computational Intelligence
+- Engelbrecht, Andries P. Computational intelligence: an introduction. John Wiley & Sons, 2007. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470512517)
 #### Deep Learning
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
