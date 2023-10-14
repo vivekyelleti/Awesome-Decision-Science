@@ -40,6 +40,7 @@ A professionally curated list of resources on everything decision-making.
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Datasets
+- Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023, doi:10.5281/zenodo.7953917. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
@@ -106,6 +107,7 @@ A professionally curated list of resources on everything decision-making.
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 ### Courses and tutorials
 ### Datasets
+- "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 ### Packages
 ### Papers
 - Arbel, Julyan, et al. ‘A Primer on Bayesian Neural Networks: Review and Debates’. arXiv [Stat.ML], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
@@ -135,7 +137,7 @@ A professionally curated list of resources on everything decision-making.
   - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
   - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
   - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
-  - NeuralForecast. Scalable and user friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
+  - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
   - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 ### Papers
 ### Videos
