@@ -4,7 +4,7 @@ A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
 - [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
-- [Artificial Intelligence and Computational Intelligence](https://github.com/cognitive-works-consulting/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
+- [Artificial Intelligence, Data Mining, and Computational Intelligence](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-artificial-intelligence-data-mining-and-computational-intelligence)
 - [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
