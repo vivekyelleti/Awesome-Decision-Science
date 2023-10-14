@@ -24,7 +24,7 @@ A professionally curated list of resources on everything decision-making.
 ### Repositories
 ### Videos
 
-## 🤖 Artificial Intelligence and Computational Intelligence
+## 🤖 Artificial Intelligence, Data Mining, and Computational Intelligence
 ### Books
 #### Computational Intelligence
 - Engelbrecht, Andries P. Computational intelligence: an introduction. John Wiley & Sons, 2007. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470512517)
@@ -42,6 +42,7 @@ A professionally curated list of resources on everything decision-making.
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023, doi:10.5281/zenodo.7953917. [[Link]](https://zenodo.org/records/7953917)
+- Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
