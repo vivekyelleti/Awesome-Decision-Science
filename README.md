@@ -21,6 +21,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Packages
 ### Papers
+### Repositories
 ### Videos
 
 ## 🤖 Artificial Intelligence and Computational Intelligence
@@ -38,6 +39,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+### Datasets
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
@@ -52,6 +54,7 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
 ### Courses and tutorials
+### Datasets
 ### Packages
 #### Python
   - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
@@ -65,6 +68,7 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
 ### Courses and tutorials
+### Datasets
 ### Packages
 ### Papers
 ### Videos
@@ -73,6 +77,7 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 ### Courses and tutorials
+### Datasets
 ### Packages
 ### Papers
 ### Videos
@@ -86,6 +91,7 @@ A professionally curated list of resources on everything decision-making.
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 ### Courses and tutorials
 - Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
+### Datasets
 ### Packages
 ### Papers
 ### Videos
@@ -99,6 +105,7 @@ A professionally curated list of resources on everything decision-making.
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 ### Courses and tutorials
+### Datasets
 ### Packages
 ### Papers
 - Arbel, Julyan, et al. ‘A Primer on Bayesian Neural Networks: Review and Debates’. arXiv [Stat.ML], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
@@ -111,6 +118,7 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017. [[Link]](https://www.tidytextmining.com/)
 ### Courses and tutorials
+### Datasets
 ### Packages
 ### Papers
 ### Videos
@@ -120,6 +128,8 @@ A professionally curated list of resources on everything decision-making.
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
 ### Courses and tutorials
+### Datasets
+- Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
 ### Packages
 #### Python
   - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
