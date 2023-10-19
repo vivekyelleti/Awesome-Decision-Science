@@ -117,6 +117,7 @@ A professionally curated list of resources on everything decision-making.
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 ### Videos
+- Maxim Kochurov. State of Bayes Lecture Series. PyNC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
 
 ## 📖 Text Mining
 ### Books
