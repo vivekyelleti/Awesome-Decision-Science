@@ -51,7 +51,7 @@ A professionally curated list of resources on everything decision-making.
 #### Machine Learning
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
-- *Mutual Information* is a YT channel that explains ML to beginners. [[Link]](https://www.youtube.com/@Mutual_Information)
+- Rich, DJ. Mutual Information, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
 ## 📊 Data Visualization & Reporting
 ### Books
