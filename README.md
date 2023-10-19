@@ -4,12 +4,12 @@ A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
 - [Artificial Intelligence, Data Mining, and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
-- [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
+- [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-and-reporting)
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
-- [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
+- [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Operations Research, Optimization, and Simulations](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-operations-research-optimization-and-simulations)
-- [Statistics, Econometrics, and Data Mining](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-statistical-modeling-statistical-programming-and-econometrics)
+- [Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research-optimization-and-simulations)
+- [Statistics, Econometrics, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-and-data-mining)
 - [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
 - [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
 
