@@ -9,22 +9,11 @@ A professionally curated list of resources on everything decision-making.
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Operations Research, Optimization, and Simulations](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-operations-research-optimization-and-simulations)
-- [Statistical Modeling, Statistical Programming, and Econometrics](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-statistical-modeling-statistical-programming-and-econometrics)
-- [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
-- [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
+- [Statistics, Econometrics, and Data Mining](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-statistical-modeling-statistical-programming-and-econometrics)
+- [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
+- [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
 
-## 💻 Algorithms, Data Structures, and Software Engineering
-### Books
-- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
-- Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
-- Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
-### Courses and tutorials
-### Packages
-### Papers
-### Repositories
-### Videos
-
-## 🤖 Artificial Intelligence, Data Mining, and Computational Intelligence
+## 🤖 Artificial Intelligence and Computational Intelligence
 ### Books
 #### Computational Intelligence
 - Engelbrecht, Andries P. Computational intelligence: an introduction. John Wiley & Sons, 2007. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470512517)
@@ -33,7 +22,6 @@ A professionally curated list of resources on everything decision-making.
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-- Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
@@ -42,7 +30,6 @@ A professionally curated list of resources on everything decision-making.
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023, doi:10.5281/zenodo.7953917. [[Link]](https://zenodo.org/records/7953917)
-- Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
@@ -54,7 +41,18 @@ A professionally curated list of resources on everything decision-making.
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
-## 📊 Data Visualization & Reporting
+## 💻 Computer Science and Software Engineering
+### Books
+- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
+- Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
+- Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
+### Courses and tutorials
+### Packages
+### Papers
+### Repositories
+### Videos
+
+## 📊 Data Visualization and Reporting
 ### Books
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
 ### Courses and tutorials
@@ -100,8 +98,9 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 📈 Statistical Modeling, Statistical Programming, and Econometrics
+## 📈 Statistics, Econometrics, and Data Mining
 ### Books
+- - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
@@ -111,6 +110,7 @@ A professionally curated list of resources on everything decision-making.
 ### Courses and tutorials
 ### Datasets
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
+- Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
 ### Packages
 ### Papers
 - Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv \[Stat.ML\], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
