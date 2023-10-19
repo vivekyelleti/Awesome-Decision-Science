@@ -3,7 +3,7 @@
 A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
-- [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research-optimization-and-simulations)
+- [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
 - [Artificial Intelligence and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
 - [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-and-reporting)
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
@@ -13,7 +13,7 @@ A professionally curated list of resources on everything decision-making.
 - [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
 - [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
 
-## 🚀 Applied Mathematics, Operations Research, Optimization, and Simulations
+## 👩‍🔬 Applied Mathematics, Operations Research, Optimization, and Simulations
 ### Books
 - Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
 - Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
