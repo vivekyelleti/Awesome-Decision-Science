@@ -51,6 +51,7 @@ A professionally curated list of resources on everything decision-making.
 #### Machine Learning
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
+- Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
 ## 📊 Data Visualization & Reporting
