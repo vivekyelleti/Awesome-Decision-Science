@@ -51,7 +51,7 @@ A professionally curated list of resources on everything decision-making.
 #### Machine Learning
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
-- Rich, DJ. Mutual Information, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
+- Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
 ## 📊 Data Visualization & Reporting
 ### Books
@@ -112,8 +112,8 @@ A professionally curated list of resources on everything decision-making.
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 ### Packages
 ### Papers
-- Arbel, Julyan, et al. ‘A Primer on Bayesian Neural Networks: Review and Debates’. arXiv [Stat.ML], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
-- Blei, David M. "Build, compute, critique, repeat: Data analysis with latent variable models." Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
+- Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv \[Stat.ML\], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
+- Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 ### Videos
