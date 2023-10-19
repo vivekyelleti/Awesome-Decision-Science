@@ -3,15 +3,15 @@
 A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
-- [Algorithms, Data Structures, and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
+- [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
 - [Artificial Intelligence, Data Mining, and Computational Intelligence](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-artificial-intelligence-data-mining-and-computational-intelligence)
-- [Data Visualization & Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
+- [Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Operations Research, Optimization, and Simulations](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-operations-research-optimization-and-simulations)
 - [Statistical Modeling, Statistical Programming, and Econometrics](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-statistical-modeling-statistical-programming-and-econometrics)
-- [Text Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
-- [Time Series](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
+- [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining)
+- [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series)
 
 ## 💻 Algorithms, Data Structures, and Software Engineering
 ### Books
@@ -120,7 +120,7 @@ A professionally curated list of resources on everything decision-making.
 ### Videos
 - Maxim Kochurov. State of Bayes Lecture Series. PyMC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
 
-## 📖 Text Mining
+## 📖 Text Mining and Natural Language Processing
 ### Books
 - Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017. [[Link]](https://www.tidytextmining.com/)
 ### Courses and tutorials
@@ -129,7 +129,7 @@ A professionally curated list of resources on everything decision-making.
 ### Papers
 ### Videos
 
-## 💹 Time Series
+## 💹 Time Series and Stochastic Processes
 ### Books
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
@@ -145,3 +145,4 @@ A professionally curated list of resources on everything decision-making.
   - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 ### Papers
 ### Videos
+- Hakenes, Hendrik. Ito's Lemma -- Some intuitive explanations on the solution of stochastic differential equations. University of Bonn, 2021. [[Link]](https://youtu.be/_4zyAFpJ_Z4?si=hd4aVpI3ClKavcyu)
