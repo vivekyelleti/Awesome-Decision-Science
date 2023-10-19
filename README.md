@@ -3,9 +3,9 @@
 A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
-- [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-algorithms-data-structures-and-software-engineering)
-- [Artificial Intelligence, Data Mining, and Computational Intelligence](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-artificial-intelligence-data-mining-and-computational-intelligence)
-- [Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
+- [Artificial Intelligence, Data Mining, and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
+- [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-data-visualization--reporting)
+- [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
 - [Operations Research, Optimization, and Simulations](https://github.com/cognitive-works-consulting/awesome-decision-science/blob/main/README.md#-operations-research-optimization-and-simulations)
@@ -41,18 +41,7 @@ A professionally curated list of resources on everything decision-making.
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
-## 💻 Computer Science and Software Engineering
-### Books
-- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
-- Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
-- Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
-### Courses and tutorials
-### Packages
-### Papers
-### Repositories
-### Videos
-
-## 📊 Data Visualization and Reporting
+## 📊 Business Intelligence, Data Visualization and Reporting
 ### Books
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
 ### Courses and tutorials
@@ -64,6 +53,17 @@ A professionally curated list of resources on everything decision-making.
 #### Julia
   - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
 ### Papers
+### Videos
+
+## 💻 Computer Science and Software Engineering
+### Books
+- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
+- Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
+- Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
+### Courses and tutorials
+### Packages
+### Papers
+### Repositories
 ### Videos
 
 ## 🗺️ Geospatial Analysis
