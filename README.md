@@ -3,15 +3,30 @@
 A professionally curated list of resources on everything decision-making.
 
 ## 💡 Contents
+- [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research-optimization-and-simulations)
 - [Artificial Intelligence and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
 - [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-and-reporting)
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-operations-research-optimization-and-simulations)
 - [Statistics, Econometrics, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-and-data-mining)
 - [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
 - [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
+
+## 🚀 Applied Mathematics, Operations Research, Optimization, and Simulations
+### Books
+- Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
+- Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
+- Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
+- Isoz, Vincent. Opera Magistris (Elements of Applied Mathematics). Sciences.ch, 2016. [[Link]](https://archive.org/details/OperaMagistris)
+- Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
+- Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
+### Courses and tutorials
+- Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
+### Datasets
+### Packages
+### Papers
+### Videos
 
 ## 🤖 Artificial Intelligence and Computational Intelligence
 ### Books
@@ -79,20 +94,6 @@ A professionally curated list of resources on everything decision-making.
 ### Books
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 ### Courses and tutorials
-### Datasets
-### Packages
-### Papers
-### Videos
-
-## 🚀 Operations Research, Optimization, and Simulations
-### Books
-- Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
-- Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
-- Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
-- Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
-- Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
-### Courses and tutorials
-- Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
 ### Datasets
 ### Packages
 ### Papers
