@@ -72,9 +72,9 @@ A professionally curated list of resources on everything decision-making.
 
 ## 💻 Computer Science and Software Engineering
 ### Books
-- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
 - Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
+- Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Miller, Brad, and David Ranum. Problem solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
 ### Courses and tutorials
 ### Packages
