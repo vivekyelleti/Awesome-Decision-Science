@@ -107,6 +107,7 @@ A professionally curated list of resources on everything decision-making.
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
 - Van Buuren, Stef. Flexible imputation of missing data. CRC Press, 2018. [[Link]](https://stefvanbuuren.name/fimd/)
+- Wasserman, Larry. All of statistics: a concise course in statistical inference. Vol. 26. New York: Springer, 2004. [[Link]](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225/ref=sr_1_1?crid=MZZKV2SSOZQF&keywords=all+of+statistics+a+concise+course+in+statistical+inference&qid=1698078694&s=books&sprefix=all+of+stat%2Cstripbooks-intl-ship%2C323&sr=1-1)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 ### Courses and tutorials
