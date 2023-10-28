@@ -25,7 +25,7 @@ Found a broken link? Please file an issue!
 - Isoz, Vincent. Opera Magistris (Elements of Applied Mathematics). Sciences.ch, 2016. [[Link]](https://archive.org/details/OperaMagistris)
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
-- Powell, Warren B. "Sequential decision analytics and modeling: modeling with python." (2022). [[Link]](https://castle.princeton.edu/sdamodeling/)
+- Powell, Warren B. "Sequential decision analytics and modeling: modeling with Python." (2022). [[Link]](https://castle.princeton.edu/sdamodeling/)
 ### Courses and tutorials
 - Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
 ### Datasets
