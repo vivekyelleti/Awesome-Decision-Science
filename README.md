@@ -56,6 +56,7 @@ Found a broken link? Please file an issue!
 ### Papers
 #### Deep Learning
 #### Machine Learning
+- Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ### Videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
