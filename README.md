@@ -39,8 +39,8 @@ A professionally curated list of resources on everything decision-making.
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
-- Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
+- Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 ### Courses and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
