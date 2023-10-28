@@ -1,7 +1,11 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A professionally curated list of resources on everything decision-making.
-Found a broken link? Please file an issue!
+
+## Contributions
 Contributions are much welcomed. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
+
+Found a broken link? Please file an issue!
+
 
 ## 💡 Contents
 - [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
