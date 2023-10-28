@@ -127,7 +127,7 @@ Found a broken link? Please file an issue!
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
 - Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. "Variational inference: A review for statisticians." Journal of the American Statistical Association 112.518 (2017): 859-877. [[Link]](https://arxiv.org/pdf/1601.00670)
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
-- Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018).[[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
+- Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018). [[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 ### Videos
