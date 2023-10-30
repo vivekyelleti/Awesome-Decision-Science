@@ -72,7 +72,9 @@ Found a broken link? Please file an issue!
 ### Packages
 #### Python
   - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
+  - Polars. Dataframes powered by a multithreaded, vectorized query engine, written in Rust. [[Link]](https://www.pola.rs/)
   - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
+  - Vizro. Vizro is a toolkit for creating modular data visualization applications. [[Link]](https://github.com/mckinsey/vizro)
 #### Julia
   - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
 ### Papers
