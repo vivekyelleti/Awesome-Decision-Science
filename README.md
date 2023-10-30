@@ -10,7 +10,7 @@ Found a broken link? Please file an issue!
 ## 📖 Contents
 - [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
 - [Artificial Intelligence and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
-- [Business Intelligence, Data Visualization and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-and-reporting)
+- [Business Intelligence, Data Visualization, Communicating and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-communicating-and-reporting)
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
@@ -43,10 +43,11 @@ Found a broken link? Please file an issue!
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-- James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. Linear regression. In An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
+- James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
 - Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Ilia Katsov, 2017. [[Link]](https://www.amazon.fr/Introduction-Algorithmic-Marketing-Artificial-Intelligence/dp/0692989048/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZOYMAJT1996O&keywords=Introduction+to+Algorithmic+Marketing&qid=1698652536&sprefix=introduction+to+algorithmic+marketing%2Caps%2C351&sr=8-1)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
+- Siddiqi, Naeem. Intelligent credit scoring: Building and implementing better credit risk scorecards. John Wiley & Sons, 2017. [[Link]](https://www.wiley.com/en-fr/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
 ### Courses and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
@@ -64,8 +65,13 @@ Found a broken link? Please file an issue!
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
-## 📊 Business Intelligence, Data Visualization and Reporting
+## 📊 Business Intelligence, Data Visualization, Communicating and Reporting
 ### Books
+- Duarte, Nancy. Resonate: Present visual stories that transform audiences. John Wiley & Sons, 2013. [[Link]](https://www.duarte.com/resources/books/resonate/)
+- Duarte, Nancy. Slide: ology: The art and science of creating great presentations. Vol. 1. Sebastapol: O'Reilly Media, 2008. [[Link]](https://www.duarte.com/resources/books/slideology/)
+- Knaflic, Cole Nussbaumer. Storytelling with data: A data visualization guide for business professionals. John Wiley & Sons, 2015. [[Link]](https://www.storytellingwithdata.com/books)
+- Knaflic, Cole Nussbaumer. Storytelling with data: let's practice!. John Wiley & Sons, 2019. [[Link]](https://www.storytellingwithdata.com/books)
+- Wexler, Steve, Jeffrey Shaffer, and Andy Cotgreave. The big book of dashboards: visualizing your data using real-world business scenarios. John Wiley & Sons, 2017. [[Link]](https://www.bigbookofdashboards.com/)
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
 ### Courses and tutorials
 ### Datasets
