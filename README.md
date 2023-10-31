@@ -102,6 +102,8 @@ Found a broken link? Please file an issue!
 ## 🗺️ Geospatial Analysis
 ### Books
 - Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
+- Moraga, Paula. Geospatial health data: Modeling and visualization with R-INLA and shiny. CRC Press, 2019. [[Link]](https://www.paulamoraga.com/book-geospatial/)
+- Moraga, Paula. "Spatial Statistics for Data Science: Theory and Practice with R." (2023). [[Link]](https://www.paulamoraga.com/book-spatial/)
 ### Courses and tutorials
 ### Datasets
 ### Packages
