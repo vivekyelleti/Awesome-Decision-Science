@@ -27,7 +27,7 @@ Found a broken link? Please file an issue!
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 - Powell, Warren B. "Sequential decision analytics and modeling: modeling with Python." (2022). [[Link]](https://castle.princeton.edu/sdamodeling/)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 - Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
 ### Datasets
 ### Packages
@@ -48,7 +48,7 @@ Found a broken link? Please file an issue!
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Siddiqi, Naeem. Intelligent credit scoring: Building and implementing better credit risk scorecards. John Wiley & Sons, 2017. [[Link]](https://www.wiley.com/en-fr/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 ### Datasets
@@ -73,7 +73,7 @@ Found a broken link? Please file an issue!
 - Knaflic, Cole Nussbaumer. Storytelling with data: let's practice!. John Wiley & Sons, 2019. [[Link]](https://www.storytellingwithdata.com/books)
 - Wexler, Steve, Jeffrey Shaffer, and Andy Cotgreave. The big book of dashboards: visualizing your data using real-world business scenarios. John Wiley & Sons, 2017. [[Link]](https://www.bigbookofdashboards.com/)
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 #### Python
@@ -92,8 +92,8 @@ Found a broken link? Please file an issue!
 - Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
 - Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Johnston, Nathaniel, and Dave Greene. Conway's Game of Life: Mathematics and Construction. Self-published, 2022. [[Link]](https://conwaylife.com/book/)
-- Miller, Brad, and David Ranum. Problem solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
-### Courses and tutorials
+- Miller, Brad, and David Ranum. Problem-solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
+### Courses, lecture notes, and tutorials
 ### Packages
 ### Papers
 ### Repositories
@@ -104,7 +104,7 @@ Found a broken link? Please file an issue!
 - Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
 - Moraga, Paula. Geospatial health data: Modeling and visualization with R-INLA and shiny. CRC Press, 2019. [[Link]](https://www.paulamoraga.com/book-geospatial/)
 - Moraga, Paula. "Spatial Statistics for Data Science: Theory and Practice with R." (2023). [[Link]](https://www.paulamoraga.com/book-spatial/)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 ### Papers
@@ -113,7 +113,7 @@ Found a broken link? Please file an issue!
 ## 🧑‍🤝‍🧑 Graph Analysis
 ### Books
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 ### Papers
@@ -131,7 +131,7 @@ Found a broken link? Please file an issue!
 - Wasserman, Larry. All of statistics: a concise course in statistical inference. Vol. 26. New York: Springer, 2004. [[Link]](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 - Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
@@ -150,7 +150,7 @@ Found a broken link? Please file an issue!
 ## 📄 Text Mining and Natural Language Processing
 ### Books
 - Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017. [[Link]](https://www.tidytextmining.com/)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 ### Papers
@@ -161,7 +161,7 @@ Found a broken link? Please file an issue!
 - Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
-### Courses and tutorials
+### Courses, lecture notes, and tutorials
 ### Datasets
 - Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
 ### Packages
