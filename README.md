@@ -95,9 +95,9 @@ Found a broken link? Please file an issue!
 - Johnston, Nathaniel, and Dave Greene. Conway's Game of Life: Mathematics and Construction. Self-published, 2022. [[Link]](https://conwaylife.com/book/)
 - Miller, Brad, and David Ranum. Problem-solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
 ### Courses, lecture notes, and tutorials
+- Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 ### Papers
-### Repositories
 ### Videos
 
 ## 🗺️ Geospatial Analysis
