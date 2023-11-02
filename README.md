@@ -51,8 +51,9 @@ Found a broken link? Please file an issue!
 ### Courses, lecture notes, and tutorials
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+- Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
 ### Datasets
-- Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023, doi:10.5281/zenodo.7953917. [[Link]](https://zenodo.org/records/7953917)
+- Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
