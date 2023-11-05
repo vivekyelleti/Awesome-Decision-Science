@@ -63,7 +63,8 @@ Found a broken link? Please file an issue!
 - Ronald DeVore, Boris Hanin, Guergana Petrova. Neural Network Approximation. [[Link]](https://arxiv.org/abs/2012.14501)
 
 ##### Mathematical aspects: optimization
--Ruoyu Sun. Optimization for deep learning: theory and algorithms. [[Link]](https://arxiv.org/abs/1912.08957)
+- Ruoyu Sun. Optimization for deep learning: theory and algorithms. [[Link]](https://arxiv.org/abs/1912.08957)
+- Ahmed Khaled, Peter Richtárik. Better Theory for SGD in the Nonconvex World. [[Link]](https://arxiv.org/abs/2002.03329)
 ##### Bayesian approaches
 - Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin. A Primer on Bayesian Neural Networks: Review and Debates. [[Link]](https://arxiv.org/abs/2309.16314)
 - Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky. Generalization Bounds: Perspectives from Information Theory and PAC-Bayes. [[Link]](https://arxiv.org/abs/2309.04381)
@@ -73,7 +74,11 @@ Found a broken link? Please file an issue!
 - Bruno Galerne, Valentin De Bortoli. Generative Modelling. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
 - Simon Coste. Diffusion. [[Link]](https://scoste.fr/posts/diffusion/)
 
-### Datasets
+#### Reinforcement Learning and Control Theory 
+- Dimitry Bertsekas. Reinforcement Learning and Optimal Control. [[Link]](http://www.mit.edu/~dimitrib/RLbook.html)
+- Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
+
+#### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
 #### Machine Learning
