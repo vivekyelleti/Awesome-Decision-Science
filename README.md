@@ -68,7 +68,10 @@ Found a broken link? Please file an issue!
 - Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin. A Primer on Bayesian Neural Networks: Review and Debates. [[Link]](https://arxiv.org/abs/2309.16314)
 - Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky. Generalization Bounds: Perspectives from Information Theory and PAC-Bayes. [[Link]](https://arxiv.org/abs/2309.04381)
 
+#### Deep Learning: Generative aspects
 
+- Bruno Galerne, Valentin De Bortoli. Generative Modelling. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
+- Simon Coste. Diffusion. [[Link]](https://scoste.fr/posts/diffusion/)
 
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
