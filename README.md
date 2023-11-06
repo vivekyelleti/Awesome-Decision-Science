@@ -5,7 +5,7 @@ Contributions are much welcomed. Please check the [contribution guidelines](http
 
 Found a broken link? Please file an issue!
 
-⚠️ I try to add as many free resources as possible. I do *not* earn any money from sales. ⚠️
+⚠️ We try to add as many free resources as possible. We do *not* earn any money from sales. ⚠️
 
 ## 📖 Contents
 - [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
@@ -14,7 +14,7 @@ Found a broken link? Please file an issue!
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
 - [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Statistics, Econometrics, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-and-data-mining)
+- [Statistics, Econometrics, Causality, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-causality-and-data-mining)
 - [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
 - [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
 
@@ -27,12 +27,17 @@ Found a broken link? Please file an issue!
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 - Powell, Warren B. "Sequential decision analytics and modeling: modeling with Python." (2022). [[Link]](https://castle.princeton.edu/sdamodeling/)
+
 ### Courses, lecture notes, and tutorials
 - Quantecon. Lectures on Quantitative Economics. [[Link]](https://quantecon.org)
+
 ### Datasets
+
 ### Packages
+
 ### Papers
-### Videos
+
+### Talks, conferences, and videos
 
 ## 🤖 Artificial Intelligence and Computational Intelligence
 ### Books
@@ -56,7 +61,7 @@ Found a broken link? Please file an issue!
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
 - Simon Prince. Understanding Deep Learning. MIT Press, to appear. [[Link]](https://udlbook.github.io/udlbook/)
-##### Mathematical aspects: approximation and generalisation
+##### Mathematical aspects: approximation and generalization
 - Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen. The Modern Mathematics of Deep Learning. [[Link]](https://arxiv.org/abs/2105.04026)
 - Philip Petersen. Neural Network Theory. [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
 - Peter L. Bartlett, Andrea Montanari, Alexander Rakhlin. Deep learning: a statistical viewpoint. [[Link]](https://arxiv.org/abs/2103.09177)
@@ -65,12 +70,12 @@ Found a broken link? Please file an issue!
 ##### Mathematical aspects: optimization
 - Ruoyu Sun. Optimization for deep learning: theory and algorithms. [[Link]](https://arxiv.org/abs/1912.08957)
 - Ahmed Khaled, Peter Richtárik. Better Theory for SGD in the Nonconvex World. [[Link]](https://arxiv.org/abs/2002.03329)
+
 ##### Bayesian approaches
 - Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin. A Primer on Bayesian Neural Networks: Review and Debates. [[Link]](https://arxiv.org/abs/2309.16314)
 - Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky. Generalization Bounds: Perspectives from Information Theory and PAC-Bayes. [[Link]](https://arxiv.org/abs/2309.04381)
 
 #### Deep Learning: Generative aspects
-
 - Bruno Galerne, Valentin De Bortoli. Generative Modelling. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
 - Simon Coste. Diffusion. [[Link]](https://scoste.fr/posts/diffusion/)
 
@@ -78,17 +83,20 @@ Found a broken link? Please file an issue!
 - Dimitry Bertsekas. Reinforcement Learning and Optimal Control. [[Link]](http://www.mit.edu/~dimitrib/RLbook.html)
 - Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
 
-#### Datasets
+### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
+
 ### Packages
 #### Machine Learning
   - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
+
 ### Papers
 #### Deep Learning
+
 #### Machine Learning
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
-### Videos
+### Talks, conferences, and videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
 
@@ -100,6 +108,7 @@ Found a broken link? Please file an issue!
 - Knaflic, Cole Nussbaumer. Storytelling with data: let's practice!. John Wiley & Sons, 2019. [[Link]](https://www.storytellingwithdata.com/books)
 - Wexler, Steve, Jeffrey Shaffer, and Andy Cotgreave. The big book of dashboards: visualizing your data using real-world business scenarios. John Wiley & Sons, 2017. [[Link]](https://www.bigbookofdashboards.com/)
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
+
 ### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
@@ -108,10 +117,12 @@ Found a broken link? Please file an issue!
   - Polars. Dataframes powered by a multithreaded, vectorized query engine, written in Rust. [[Link]](https://www.pola.rs/)
   - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
   - Vizro. Vizro is a toolkit for creating modular data visualization applications. [[Link]](https://github.com/mckinsey/vizro)
+
 #### Julia
   - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
+
 ### Papers
-### Videos
+### Talks, conferences, and videos
 
 ## 💻 Computer Science and Software Engineering
 ### Books
@@ -120,11 +131,13 @@ Found a broken link? Please file an issue!
 - Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Johnston, Nathaniel, and Dave Greene. Conway's Game of Life: Mathematics and Construction. Self-published, 2022. [[Link]](https://conwaylife.com/book/)
 - Miller, Brad, and David Ranum. Problem-solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
+
 ### Courses, lecture notes, and tutorials
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
+
 ### Packages
 ### Papers
-### Videos
+### Talks, conferences, and videos
 
 ## 🗺️ Geospatial Analysis
 ### Books
@@ -135,18 +148,19 @@ Found a broken link? Please file an issue!
 ### Datasets
 ### Packages
 ### Papers
-### Videos
+### Talks, conferences, and videos
 
 ## 🧑‍🤝‍🧑 Graph Analysis
 ### Books
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
+
 ### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 ### Papers
-### Videos
+### Talks, conferences, and videos
 
-## 📈 Statistics, Econometrics, and Data Mining
+## 📈 Statistics, Econometrics, Causality, and Data Mining
 ### Books
 - Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
@@ -162,6 +176,7 @@ Found a broken link? Please file an issue!
 ### Datasets
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 - Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
+
 ### Packages
 ### Papers
 - Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv \[Stat.ML\], 2023. [[Link]](http://arxiv.org/abs/2309.16314)
@@ -171,23 +186,27 @@ Found a broken link? Please file an issue!
 - Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018). [[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
-### Videos
+
+### Talks, conferences, and videos
+- Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[[Link]](https://bcirwis2021.github.io/schedule.html)
 - Maxim Kochurov. State of Bayes Lecture Series. PyMC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
 
 ## 📄 Text Mining and Natural Language Processing
 ### Books
 - Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017. [[Link]](https://www.tidytextmining.com/)
+
 ### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
 ### Papers
-### Videos
+### Talks, conferences, and videos
 
 ## 💹 Time Series and Stochastic Processes
 ### Books
 - Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
+
 ### Courses, lecture notes, and tutorials
 ### Datasets
 - Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
@@ -198,6 +217,7 @@ Found a broken link? Please file an issue!
   - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
   - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
   - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
+
 ### Papers
-### Videos
+### Talks, conferences, and videos
 - Hakenes, Hendrik. Ito's Lemma -- Some intuitive explanations on the solution of stochastic differential equations. University of Bonn, 2021. [[Link]](https://youtu.be/_4zyAFpJ_Z4?si=hd4aVpI3ClKavcyu)
