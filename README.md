@@ -3,7 +3,7 @@ A professionally curated list of resources on everything decision-making.
 
 Contributions are much welcomed. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
 
-Found a broken link? Please file an issue!
+Found a broken link or a duplicate? Please file an issue!
 
 ⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
 
