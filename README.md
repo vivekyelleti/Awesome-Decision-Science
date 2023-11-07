@@ -5,7 +5,7 @@ Contributions are much welcomed. Please check the [contribution guidelines](http
 
 Found a broken link? Please file an issue!
 
-⚠️ We try to add as many free resources as possible. We do *not* earn any money from sales. ⚠️
+⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
 
 ## 📖 Contents
 - [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
