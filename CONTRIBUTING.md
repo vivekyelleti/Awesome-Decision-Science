@@ -8,9 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure you use the MLA format
+- Make sure you do not use a broken link
+- Make sure your resource is high quality
+- Make sure your resource is not already on the list
+- Try to provide a link to free resources as much as possible
 
 Thank you for your suggestions!
 
