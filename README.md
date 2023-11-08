@@ -52,7 +52,7 @@ Found a broken link, a newer version of a resource, or a duplicate in the list? 
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
-- Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Ilia Katsov, 2017. [[Link]](https://www.amazon.fr/Introduction-Algorithmic-Marketing-Artificial-Intelligence/dp/0692989048/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZOYMAJT1996O&keywords=Introduction+to+Algorithmic+Marketing&qid=1698652536&sprefix=introduction+to+algorithmic+marketing%2Caps%2C351&sr=8-1)
+- Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Ilia Katsov, 2017. [[Link]](https://www.algorithmicmarketingbook.com/)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Siddiqi, Naeem. Intelligent credit scoring: Building and implementing better credit risk scorecards. John Wiley & Sons, 2017. [[Link]](https://www.wiley.com/en-fr/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
