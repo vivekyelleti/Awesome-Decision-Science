@@ -7,6 +7,10 @@ Found a broken link, a newer version of a resource, or a duplicate in the list? 
 
 ⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
 
+You can click on the hamburger next to the file name for a better browsing experience:
+
+<div style="text-align: center"><img src="./Navigation.png" width="800" /></div>
+
 ## 📖 Contents
 - [Applied Mathematics, Operations Research, Optimization, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-applied-mathematics-operations-research-optimization-and-simulations)
 - [Artificial Intelligence and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
