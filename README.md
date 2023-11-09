@@ -2,6 +2,7 @@
 A professionally curated list of resources on everything decision-making.
 
 👍Do you like the project and want to help spread the word?👍
+
 Here's what you can do:
 - give it a star⭐
 - add it to your watchlist👁️
