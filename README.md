@@ -65,8 +65,6 @@ You can click on the hamburger next to the file name for a better browsing exper
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
-- Simon Prince. Understanding Deep Learning. MIT Press, to appear. [[Link]](https://udlbook.github.io/udlbook/)
-- 
 ##### Mathematical aspects: approximation and generalization
 - Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen. The Modern Mathematics of Deep Learning. [[Link]](https://arxiv.org/abs/2105.04026)
 - Philip Petersen. Neural Network Theory. [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
