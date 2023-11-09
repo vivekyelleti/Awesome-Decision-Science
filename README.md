@@ -62,6 +62,7 @@ Found a broken link, a newer version of a resource, or a duplicate in the list? 
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
 - Simon Prince. Understanding Deep Learning. MIT Press, to appear. [[Link]](https://udlbook.github.io/udlbook/)
+- 
 ##### Mathematical aspects: approximation and generalization
 - Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen. The Modern Mathematics of Deep Learning. [[Link]](https://arxiv.org/abs/2105.04026)
 - Philip Petersen. Neural Network Theory. [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
@@ -76,7 +77,7 @@ Found a broken link, a newer version of a resource, or a duplicate in the list? 
 - Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin. A Primer on Bayesian Neural Networks: Review and Debates. [[Link]](https://arxiv.org/abs/2309.16314)
 - Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky. Generalization Bounds: Perspectives from Information Theory and PAC-Bayes. [[Link]](https://arxiv.org/abs/2309.04381)
 
-#### Deep Learning: Generative aspects
+##### Generative aspects
 - Bruno Galerne, Valentin De Bortoli. Generative Modelling. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
 - Simon Coste. Diffusion. [[Link]](https://scoste.fr/posts/diffusion/)
 
