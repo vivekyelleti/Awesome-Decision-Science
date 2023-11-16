@@ -21,8 +21,7 @@ Here's what you can do:
 - [Business Intelligence, Data Visualization, Communicating and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-communicating-and-reporting)
 - [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
 - [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
-- [Graph Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#-graph-analysis)
-- [Mathematics, Operations Research, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-mathematics-operations-research-and-)  
+- [Mathematics, Operations Research, Game Theory, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-mathematics-operations-research-game-theory-and-simulations)  
 - [Statistics, Econometrics, Causality, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-causality-and-data-mining)
 - [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
 - [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
@@ -74,11 +73,9 @@ Here's what you can do:
 
 ### Papers
 #### Deep Learning
-
 #### Machine Learning
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 - Manokhin, Valery. Awesome Conformal Prediction. v1.0.0, Zenodo, 2022. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
-
 ### Talks, conferences, and videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
@@ -138,10 +135,12 @@ Here's what you can do:
 ### Papers
 ### Talks, conferences, and videos
 
-## 👩‍🔬 Mathematics, Operations Research, and Simulations
+## 👩‍🔬 Mathematics, Operations Research, Game Theory, and Simulations
 ### Books
-#### Applied
+#### Applied Mathematics
 - Isoz, Vincent. Opera Magistris (Elements of Applied Mathematics). Sciences.ch, 2016. [[Link]](https://archive.org/details/OperaMagistris)
+#### Game Theory and Simulations
+- Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
 #### Graph Theory
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 - Sargent, Thomas J., and John Stachurski. Economic Networks: Theory and Computation. QuantEcon, 2022. [[Link]](https://networks.quantecon.org/)
@@ -151,11 +150,9 @@ Here's what you can do:
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
 - Sargent, Thomas J., and John Stachurski. Dynamic Programming Volume 1. QuantEcon, 2023. [[Link]](https://dp.quantecon.org/)
-
-#### Simulations
-- Downey, Allen B. Modeling and Simulation in Python: An Introduction for Scientists and Engineers. No Starch Press, 2023. [[Link]](https://greenteapress.com/wp/modsimpy/)
-- Kochenderfer, Mykel J., Tim A. Wheeler, and Kyle H. Wray. Algorithms for decision making. MIT Press, 2022. [[Link]](https://algorithmsbook.com/)
+#### Sequential Problems
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
+
 ### Courses, lecture notes, and tutorials
 ### Datasets
 ### Packages
@@ -226,11 +223,11 @@ Here's what you can do:
 - Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
 ### Packages
 #### Python
-  - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
-  - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
-  - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
-  - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
-  - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
+- Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
+- HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
+- mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
+- NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
+- StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 
 ### Papers
 ### Talks, conferences, and videos
