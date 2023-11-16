@@ -16,16 +16,6 @@ Here's what you can do:
 
 <div style="text-align: center"><img src="./Navigation.png" width="800" /></div>
 
-## 📖 Contents
-- [Artificial Intelligence and Computational Intelligence](https://github.com/mpalenciaolivar/awesome-decision-science#-artificial-intelligence-and-computational-intelligence)
-- [Business Intelligence, Data Visualization, Communicating and Reporting](https://github.com/mpalenciaolivar/awesome-decision-science#-business-intelligence-data-visualization-communicating-and-reporting)
-- [Computer Science and Software Engineering](https://github.com/mpalenciaolivar/awesome-decision-science#-computer-science-and-software-engineering)
-- [Geospatial Analysis](https://github.com/mpalenciaolivar/awesome-decision-science#%EF%B8%8F-geospatial-analysis)
-- [Mathematics, Operations Research, Game Theory, and Simulations](https://github.com/mpalenciaolivar/awesome-decision-science#-mathematics-operations-research-game-theory-and-simulations)  
-- [Statistics, Econometrics, Causality, and Data Mining](https://github.com/mpalenciaolivar/awesome-decision-science#-statistics-econometrics-causality-and-data-mining)
-- [Text Mining and Natural Language Processing](https://github.com/mpalenciaolivar/awesome-decision-science#-text-mining-and-natural-language-processing)
-- [Time Series and Stochastic Processes](https://github.com/mpalenciaolivar/awesome-decision-science#-time-series-and-stochastic-processes)
-
 ## 🤖 Artificial Intelligence and Computational Intelligence
 ### Books
 #### Computational Intelligence
