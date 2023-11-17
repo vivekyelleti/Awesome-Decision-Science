@@ -38,19 +38,19 @@ Here's what you can do:
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
 ##### Bayesian approaches
-- Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin. A Primer on Bayesian Neural Networks: Review and Debates. [[Link]](https://arxiv.org/abs/2309.16314)
-- Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky. Generalization Bounds: Perspectives from Information Theory and PAC-Bayes. [[Link]](https://arxiv.org/abs/2309.04381)
+- Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv preprint arXiv:2309.16314 (2023). [[Link]](https://arxiv.org/abs/2309.16314)
+- Hellström, Fredrik, et al. Generalization bounds: perspectives from information theory and PAC-Bayes. arXiv preprint arXiv:2309.04381 (2023). [[Link]](https://arxiv.org/abs/2309.04381)
 ##### Generative aspects
-- Bruno Galerne, Valentin De Bortoli. Generative Modelling. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
-- Simon Coste. Diffusion. [[Link]](https://scoste.fr/posts/diffusion/)
+- Coste, Simon. Diffusion. University of Paris, 2023. [[Link]](https://scoste.fr/posts/diffusion/)
+- Galerne, Bruno, and Valentin De Bortoli. Generative Modelling. ENS Paris-Saclay, 2023. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
 ##### Mathematical aspects: approximation and generalization
-- Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen. The Modern Mathematics of Deep Learning. [[Link]](https://arxiv.org/abs/2105.04026)
-- Philip Petersen. Neural Network Theory. [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
-- Peter L. Bartlett, Andrea Montanari, Alexander Rakhlin. Deep learning: a statistical viewpoint. [[Link]](https://arxiv.org/abs/2103.09177)
-- Ronald DeVore, Boris Hanin, Guergana Petrova. Neural Network Approximation. [[Link]](https://arxiv.org/abs/2012.14501)
+- Bartlett, Peter L., Andrea Montanari, and Alexander Rakhlin. Deep learning: a statistical viewpoint. Acta numerica 30 (2021): 87-201. [[Link]](https://arxiv.org/abs/2103.09177)
+- Berner, Julius, et al. The modern mathematics of deep learning. arXiv preprint arXiv:2105.04026 (2021): 86-114. [[Link]](https://arxiv.org/abs/2105.04026)
+- DeVore, Ronald, Boris Hanin, and Guergana Petrova. Neural network approximation. Acta Numerica 30 (2021): 327-444. [[Link]](https://arxiv.org/abs/2012.14501)
+- Petersen, Philipp Christian. Neural network theory. University of Vienna 535 (2020). [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
 ##### Mathematical aspects: optimization
-- Ruoyu Sun. Optimization for deep learning: theory and algorithms. [[Link]](https://arxiv.org/abs/1912.08957)
-- Ahmed Khaled, Peter Richtárik. Better Theory for SGD in the Nonconvex World. [[Link]](https://arxiv.org/abs/2002.03329)
+- Khaled, Ahmed, and Peter Richtárik. "Better theory for SGD in the nonconvex world." arXiv preprint arXiv:2002.03329 (2020). [[Link]](https://arxiv.org/abs/2002.03329)
+- Sun, Ruoyu. Optimization for deep learning: theory and algorithms. arXiv preprint arXiv:1912.08957 (2019). [[Link]](https://arxiv.org/abs/1912.08957)
 #### Reinforcement Learning and Control Theory 
 - Dimitry Bertsekas. Reinforcement Learning and Optimal Control. [[Link]](http://www.mit.edu/~dimitrib/RLbook.html)
 - Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
