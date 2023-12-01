@@ -178,7 +178,6 @@ Here's what you can do:
 
 ### Packages
 ### Papers
-- Lakens, Daniël. Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses. Social psychological and personality science vol. 8,4 (2017): 355-362. doi:10.1177/1948550617697177 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502906/)
 #### Probabilistic Graphical Models
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
 - Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. "Variational inference: A review for statisticians." Journal of the American Statistical Association 112.518 (2017): 859-877. [[Link]](https://arxiv.org/pdf/1601.00670)
@@ -187,6 +186,7 @@ Here's what you can do:
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
 
 #### Statistics
+- Lakens, Daniël. “Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses.” Social psychological and personality science vol. 8,4 (2017): 355-362. doi:10.1177/1948550617697177 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502906/)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 
 ### Talks, conferences, and videos
