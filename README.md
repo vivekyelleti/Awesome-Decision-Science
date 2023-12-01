@@ -100,7 +100,7 @@ Here's what you can do:
 
 ## 💻 Computer Science and Software Engineering
 ### Books
-#### Algorithmics, data structures and programming languages
+#### Algorithmics, data structures, and programming languages
 - Downey, Allen. Think complexity: complexity science and computational modeling. " O'Reilly Media, Inc.", 2018. [[Link]](https://www.greenteapress.com/complexity/)
 - Downey, Allen. Think data structures: algorithms and information retrieval in Java. " O'Reilly Media, Inc.", 2017. [[Link]](https://greenteapress.com/wp/think-data-structures/)
 - Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
@@ -144,6 +144,7 @@ Here's what you can do:
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
 
 ### Courses, lecture notes, and tutorials
+- Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
 ### Packages
 ### Papers
