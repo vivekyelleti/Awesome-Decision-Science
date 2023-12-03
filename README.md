@@ -51,6 +51,8 @@ Here's what you can do:
 ##### Mathematical aspects: optimization
 - Khaled, Ahmed, and Peter Richtárik. "Better theory for SGD in the nonconvex world." arXiv preprint arXiv:2002.03329 (2020). [[Link]](https://arxiv.org/abs/2002.03329)
 - Sun, Ruoyu. Optimization for deep learning: theory and algorithms. arXiv preprint arXiv:1912.08957 (2019). [[Link]](https://arxiv.org/abs/1912.08957)
+#### Machine Learning
+- MLU-Explain Team. MLU-Explain. Amazon (2021). [[Link]](https://mlu-explain.github.io/)
 #### Reinforcement Learning and Control Theory 
 - Dimitry Bertsekas. Reinforcement Learning and Optimal Control. [[Link]](http://www.mit.edu/~dimitrib/RLbook.html)
 - Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
