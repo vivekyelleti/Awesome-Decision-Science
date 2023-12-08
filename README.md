@@ -190,6 +190,7 @@ Here's what you can do:
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
 
 #### Statistics
+- Greenland, Sander et al. “Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations.” European journal of epidemiology vol. 31,4 (2016): 337-50. doi:10.1007/s10654-016-0149-3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
 - Lakens, Daniël. “Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses.” Social psychological and personality science vol. 8,4 (2017): 355-362. doi:10.1177/1948550617697177 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502906/)
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 
