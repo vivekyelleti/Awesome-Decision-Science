@@ -154,7 +154,6 @@ Here's what you can do:
 ### Datasets
 ### Packages
 ### Papers
-
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
@@ -162,10 +161,8 @@ Here's what you can do:
 ### Books
 #### Data Mining
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
-
 #### Econometrics
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
-
 #### Statistics
 - Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
@@ -175,18 +172,15 @@ Here's what you can do:
 - Van Buuren, Stef. Flexible imputation of missing data. CRC Press, 2018. [[Link]](https://stefvanbuuren.name/fimd/)
 - Wasserman, Larry. All of statistics: a concise course in statistical inference. Vol. 26. New York: Springer, 2004. [[Link]](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
-
 ### Courses, lecture notes, and tutorials
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 - De Haan, Monique. ECON4150 - Introductory Econometrics. University of Oslo, 2018. [[Link]](https://www.uio.no/studier/emner/sv/oekonomi/ECON4150/v18/)
 - Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
 - Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 - Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
-
 ### Datasets
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 - Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
-
 ### Packages
 ### Papers
 #### Probabilistic Graphical Models
