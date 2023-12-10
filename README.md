@@ -153,6 +153,8 @@ Here's what you can do:
 ### Papers
 
 ### Talks, conferences, and videos
+- MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
+
 ## 📈 Statistics, Econometrics, Causality, and Data Mining
 ### Books
 #### Data Mining
