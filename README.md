@@ -177,6 +177,7 @@ Here's what you can do:
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 - De Haan, Monique. ECON4150 - Introductory Econometrics. University of Oslo, 2018. [[Link]](https://www.uio.no/studier/emner/sv/oekonomi/ECON4150/v18/)
 - Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
+- Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
 
 ### Datasets
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
