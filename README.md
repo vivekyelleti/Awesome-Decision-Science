@@ -1,5 +1,5 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A professionally curated list of resources on everything decision-making.
+An evergrowing, professionally curated list of resources on everything decision-making.
 
 👍Do you like the project and want to help spread the word?👍
 
