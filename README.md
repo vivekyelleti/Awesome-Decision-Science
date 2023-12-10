@@ -66,9 +66,14 @@ Here's what you can do:
 ### Papers
 #### Deep Learning
 #### Machine Learning
+##### Conformal Prediction
 - Angelopoulos, Anastasios N., and Stephen Bates. "A gentle introduction to conformal prediction and distribution-free uncertainty quantification." arXiv preprint arXiv:2107.07511 (2021).
-- Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020).
+- Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
+##### Philosophical aspects
+- Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
+##### Training ML models
+- Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
 ### Talks, conferences, and videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
