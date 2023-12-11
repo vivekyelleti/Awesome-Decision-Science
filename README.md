@@ -47,7 +47,7 @@ Here's what you can do:
 - Bartlett, Peter L., Andrea Montanari, and Alexander Rakhlin. Deep learning: a statistical viewpoint. Acta numerica 30 (2021): 87-201. [[Link]](https://arxiv.org/abs/2103.09177)
 - Berner, Julius, et al. The modern mathematics of deep learning. arXiv preprint arXiv:2105.04026 (2021): 86-114. [[Link]](https://arxiv.org/abs/2105.04026)
 - DeVore, Ronald, Boris Hanin, and Guergana Petrova. Neural network approximation. Acta Numerica 30 (2021): 327-444. [[Link]](https://arxiv.org/abs/2012.14501)
-- Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018).
+- Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018). [[Link]](https://arxiv.org/abs/1806.07572)
 - Petersen, Philipp Christian. Neural network theory. University of Vienna 535 (2020). [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
 ##### Mathematical aspects: optimization
 - Khaled, Ahmed, and Peter Richtárik. "Better theory for SGD in the nonconvex world." arXiv preprint arXiv:2002.03329 (2020). [[Link]](https://arxiv.org/abs/2002.03329)
