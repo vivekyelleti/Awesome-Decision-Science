@@ -146,6 +146,7 @@ Here's what you can do:
 - Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
 - Kwon, Changhyun. Julia Programming for Operations Research. Changhyun Kwon, 2019. [[Link]](https://juliabook.chkwon.net/book/frontmatter)
 - Martins, J. R. R. A. and Ning, A., Engineering Design Optimization, Cambridge University Press, 2022. [[Link]](https://mdobook.github.io/)
+- Nesterov, Yurii. Lectures on convex optimization. Vol. 137. Berlin: Springer, 2018. [[Link]](https://link.springer.com/book/10.1007/978-3-319-91578-4)
 - Sargent, Thomas J., and John Stachurski. Dynamic Programming Volume 1. QuantEcon, 2023. [[Link]](https://dp.quantecon.org/)
 #### Sequential Problems
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
