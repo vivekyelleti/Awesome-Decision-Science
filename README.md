@@ -37,21 +37,7 @@ Here's what you can do:
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
-##### Bayesian approaches
-- Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv preprint arXiv:2309.16314 (2023). [[Link]](https://arxiv.org/abs/2309.16314)
-- Hellström, Fredrik, et al. Generalization bounds: perspectives from information theory and PAC-Bayes. arXiv preprint arXiv:2309.04381 (2023). [[Link]](https://arxiv.org/abs/2309.04381)
-##### Generative aspects
-- Coste, Simon. Diffusion. University of Paris, 2023. [[Link]](https://scoste.fr/posts/diffusion/)
-- Galerne, Bruno, and Valentin De Bortoli. Generative Modelling. ENS Paris-Saclay, 2023. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
-##### Mathematical aspects: approximation and generalization
-- Bartlett, Peter L., Andrea Montanari, and Alexander Rakhlin. Deep learning: a statistical viewpoint. Acta numerica 30 (2021): 87-201. [[Link]](https://arxiv.org/abs/2103.09177)
-- Berner, Julius, et al. The modern mathematics of deep learning. arXiv preprint arXiv:2105.04026 (2021): 86-114. [[Link]](https://arxiv.org/abs/2105.04026)
-- DeVore, Ronald, Boris Hanin, and Guergana Petrova. Neural network approximation. Acta Numerica 30 (2021): 327-444. [[Link]](https://arxiv.org/abs/2012.14501)
-- Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018). [[Link]](https://arxiv.org/abs/1806.07572)
-- Petersen, Philipp Christian. Neural network theory. University of Vienna 535 (2020). [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
-##### Mathematical aspects: optimization
-- Khaled, Ahmed, and Peter Richtárik. "Better theory for SGD in the nonconvex world." arXiv preprint arXiv:2002.03329 (2020). [[Link]](https://arxiv.org/abs/2002.03329)
-- Sun, Ruoyu. Optimization for deep learning: theory and algorithms. arXiv preprint arXiv:1912.08957 (2019). [[Link]](https://arxiv.org/abs/1912.08957)
+
 #### Machine Learning
 - MLU-Explain Team. MLU-Explain. Amazon (2021). [[Link]](https://mlu-explain.github.io/)
 #### Reinforcement Learning and Control Theory 
@@ -65,6 +51,23 @@ Here's what you can do:
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
 ### Papers
 #### Deep Learning
+##### Bayesian approaches
+- Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv preprint arXiv:2309.16314 (2023). [[Link]](https://arxiv.org/abs/2309.16314)
+- Hellström, Fredrik, et al. Generalization bounds: perspectives from information theory and PAC-Bayes. arXiv preprint arXiv:2309.04381 (2023). [[Link]](https://arxiv.org/abs/2309.04381)
+- Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[Link]](https://arxiv.org/abs/1312.6114)
+##### Generative aspects
+- Coste, Simon. Diffusion. University of Paris, 2023. [[Link]](https://scoste.fr/posts/diffusion/)
+- Galerne, Bruno, and Valentin De Bortoli. Generative Modelling. ENS Paris-Saclay, 2023. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
+##### Mathematical aspects: approximation and generalization
+- Bartlett, Peter L., Andrea Montanari, and Alexander Rakhlin. Deep learning: a statistical viewpoint. Acta numerica 30 (2021): 87-201. [[Link]](https://arxiv.org/abs/2103.09177)
+- Berner, Julius, et al. The modern mathematics of deep learning. arXiv preprint arXiv:2105.04026 (2021): 86-114. [[Link]](https://arxiv.org/abs/2105.04026)
+- DeVore, Ronald, Boris Hanin, and Guergana Petrova. Neural network approximation. Acta Numerica 30 (2021): 327-444. [[Link]](https://arxiv.org/abs/2012.14501)
+- Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018). [[Link]](https://arxiv.org/abs/1806.07572)
+- Hornik, Kurt, Maxwell Stinchcombe, and Halbert White. "Multilayer feedforward networks are universal approximators." Neural networks 2.5 (1989): 359-366. [[Link]](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf)
+- Petersen, Philipp Christian. Neural network theory. University of Vienna 535 (2020). [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
+##### Mathematical aspects: optimization
+- Khaled, Ahmed, and Peter Richtárik. "Better theory for SGD in the nonconvex world." arXiv preprint arXiv:2002.03329 (2020). [[Link]](https://arxiv.org/abs/2002.03329)
+- Sun, Ruoyu. Optimization for deep learning: theory and algorithms. arXiv preprint arXiv:1912.08957 (2019). [[Link]](https://arxiv.org/abs/1912.08957)
 #### Machine Learning
 ##### Conformal Prediction
 - Angelopoulos, Anastasios N., and Stephen Bates. "A gentle introduction to conformal prediction and distribution-free uncertainty quantification." arXiv preprint arXiv:2107.07511 (2021). [[Link]](https://arxiv.org/abs/2107.07511)
@@ -221,6 +224,7 @@ Here's what you can do:
 - Horwood, Ghraham V. Humanitarian Assistance and Disaster Relief (HA/DR) Articles and Lexicon. V1, Harvard Dataverse, 2017, doi:10.7910/DVN/TGOPRU. [[Link]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TGOPRU)
 ### Packages
 ### Papers
+- Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420. [[Link]](https://arxiv.org/abs/1510.00726)
 ### Talks, conferences, and videos
 
 ## 💹 Time Series and Stochastic Processes
