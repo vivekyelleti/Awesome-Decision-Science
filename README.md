@@ -149,6 +149,8 @@ Here's what you can do:
 #### Graph Theory
 - McNulty, Keith. Handbook of graphs and networks in people analytics: with examples in R and Python. CRC Press, 2022. [[Link]](https://ona-book.org/index.html)
 - Sargent, Thomas J., and John Stachurski. Economic Networks: Theory and Computation. QuantEcon, 2022. [[Link]](https://networks.quantecon.org/)
+#### Algebra
+- Axler, Sheldon. Linear algebra done right. Springer Nature, 2023. [[Link]](https://linear.axler.net/)
 #### Optimization
 - Boumal, Nicolas. An Introduction to Optimization on Smooth Manifolds. Cambridge University Press, 2023. [[Link]](https://www.nicolasboumal.net/book/)
 - Boyd, Stephen P., and Lieven Vandenberghe. Convex optimization. Cambridge University Press, 2004. [[Link]](https://web.stanford.edu/~boyd/cvxbook/)
