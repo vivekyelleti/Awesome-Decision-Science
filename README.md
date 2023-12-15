@@ -65,6 +65,7 @@ Here's what you can do:
 - Berner, Julius, et al. The modern mathematics of deep learning. arXiv preprint arXiv:2105.04026 (2021): 86-114. [[Link]](https://arxiv.org/abs/2105.04026)
 - DeVore, Ronald, Boris Hanin, and Guergana Petrova. Neural network approximation. Acta Numerica 30 (2021): 327-444. [[Link]](https://arxiv.org/abs/2012.14501)
 - Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018). [[Link]](https://arxiv.org/abs/1806.07572)
+- Hornik, Kurt. "Approximation capabilities of multilayer feedforward networks." Neural networks 4.2 (1991): 251-257. [[Link]](https://web.njit.edu/~usman/courses/cs677_spring21/hornik-nn-1991.pdf)
 - Hornik, Kurt, Maxwell Stinchcombe, and Halbert White. "Multilayer feedforward networks are universal approximators." Neural networks 2.5 (1989): 359-366. [[Link]](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf)
 - Petersen, Philipp Christian. Neural network theory. University of Vienna 535 (2020). [[Link]](http://pc-petersen.eu/Neural_Network_Theory.pdf)
 ##### Mathematical aspects: optimization
