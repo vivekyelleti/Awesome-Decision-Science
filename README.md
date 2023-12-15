@@ -8,7 +8,7 @@ Here's what you can do:
 - add it to your watchlist👁️
 - contribute. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
 
-❗Found a broken link, a newer version of a resource, or a duplicate in the list? Please file an issue or make a pull request!❗
+❗Found a broken or missing link, a newer version of a resource, or a duplicate in the list? Please file an issue or make a pull request!❗
 
 ⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
 
@@ -49,12 +49,14 @@ Here's what you can do:
 ### Packages
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
+- Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
 ### Papers
 #### Deep Learning
 ##### Bayesian approaches
 - Arbel, Julyan, et al. A Primer on Bayesian Neural Networks: Review and Debates. arXiv preprint arXiv:2309.16314 (2023). [[Link]](https://arxiv.org/abs/2309.16314)
 - Hellström, Fredrik, et al. Generalization bounds: perspectives from information theory and PAC-Bayes. arXiv preprint arXiv:2309.04381 (2023). [[Link]](https://arxiv.org/abs/2309.04381)
 - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[Link]](https://arxiv.org/abs/1312.6114)
+- Nalisnick, Eric, and Padhraic Smyth. "Stick-breaking variational autoencoders." arXiv preprint arXiv:1605.06197 (2016). [[Link]](https://arxiv.org/abs/1605.06197)
 ##### Generative aspects
 - Coste, Simon. Diffusion. University of Paris, 2023. [[Link]](https://scoste.fr/posts/diffusion/)
 - Galerne, Bruno, and Valentin De Bortoli. Generative Modelling. ENS Paris-Saclay, 2023. [[Link]](https://vdeborto.github.io/project/generative_modeling/)
@@ -73,6 +75,8 @@ Here's what you can do:
 - Angelopoulos, Anastasios N., and Stephen Bates. "A gentle introduction to conformal prediction and distribution-free uncertainty quantification." arXiv preprint arXiv:2107.07511 (2021). [[Link]](https://arxiv.org/abs/2107.07511)
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020). [[Link]](https://arxiv.org/abs/2005.07972)
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
+##### Fuzzy sets
+- Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363.[[Link]](https://arxiv.org/abs/1901.11303)
 ##### Philosophical aspects
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 ##### Training ML models
