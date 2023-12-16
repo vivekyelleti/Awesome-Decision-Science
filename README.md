@@ -175,6 +175,7 @@ Here's what you can do:
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
 - Scrucca, Luca, et al. Model-Based Clustering, Classification, and Density Estimation Using mclust in R. Chapman and Hall/CRC, 2023. [[Link]](https://www.taylorfrancis.com/books/mono/10.1201/9781003277965/model-based-clustering-classification-density-estimation-using-mclust-luca-scrucca-chris-fraley-brendan-murphy-adrian-raftery)
 #### Econometrics
+- Evans, Richard W., Computational Methods for Economists using Python, Open access Jupyter Book, v#.#.#, 2023. [[Link]](https://opensourceecon.github.io/CompMethods)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 #### Statistics
 - Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
@@ -186,12 +187,10 @@ Here's what you can do:
 - Wasserman, Larry. All of nonparametric statistics. Springer Science & Business Media, 2006. [[Link]](https://link.springer.com/book/10.1007/0-387-30623-4)
 - Wasserman, Larry. All of statistics: a concise course in statistical inference. Vol. 26. New York: Springer, 2004. [[Link]](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
-
 #### Time Series
 - Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
-
 ### Courses, lecture notes, and tutorials
 #### Causal Inference
 - Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
@@ -216,7 +215,6 @@ Here's what you can do:
 - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
 - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
 - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
-
 ### Papers
 #### Probabilistic Graphical Models
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
@@ -241,7 +239,6 @@ Here's what you can do:
 - Pernet, Cyril. “Null hypothesis significance testing: a short tutorial.” F1000Research vol. 4 621. 25 Aug. 2015, doi:10.12688/f1000research.6963.3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635437/)
 - Serdar, Ceyhan Ceran et al. “Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies.” Biochemia medica vol. 31,1 (2021): 010502. doi:10.11613/BM.2021.010502 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
-
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[[Link]](https://bcirwis2021.github.io/schedule.html)
