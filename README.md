@@ -169,10 +169,11 @@ Here's what you can do:
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
-## 📈 Statistics, Econometrics, Causality, and Data Mining
+## 📈 Statistics, Econometrics, Causality, and Clustering
 ### Books
-#### Data Mining
+#### Clustering
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
+- Scrucca, Luca, et al. Model-Based Clustering, Classification, and Density Estimation Using mclust in R. Chapman and Hall/CRC, 2023. [[Link]](https://www.taylorfrancis.com/books/mono/10.1201/9781003277965/model-based-clustering-classification-density-estimation-using-mclust-luca-scrucca-chris-fraley-brendan-murphy-adrian-raftery)
 #### Econometrics
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 #### Statistics
