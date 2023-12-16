@@ -28,6 +28,7 @@ Here's what you can do:
 - Philipp Grohs, Gitta Kutyniok. Mathematical Aspects of Deep Learning. [[Link]](https://www.cambridge.org/core/books/mathematical-aspects-of-deep-learning/8D9B41D1E9BB8CA515E93412EECC2A7E)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
 - Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Grid Dynamics, 2017. [[Link]](https://www.algorithmicmarketingbook.com/)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
