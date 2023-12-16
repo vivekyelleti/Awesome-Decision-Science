@@ -169,7 +169,7 @@ Here's what you can do:
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
-## 📈 Statistics, Econometrics, Causality, and Clustering
+## 📈 Statistics, Econometrics, Time Series, Causality, and Clustering
 ### Books
 #### Clustering
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
@@ -186,16 +186,36 @@ Here's what you can do:
 - Wasserman, Larry. All of nonparametric statistics. Springer Science & Business Media, 2006. [[Link]](https://link.springer.com/book/10.1007/0-387-30623-4)
 - Wasserman, Larry. All of statistics: a concise course in statistical inference. Vol. 26. New York: Springer, 2004. [[Link]](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
+
+#### Time Series
+- Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
+- Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
+- Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
+
 ### Courses, lecture notes, and tutorials
+#### Causal Inference
+- Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
+#### Econometrics
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 - De Haan, Monique. ECON4150 - Introductory Econometrics. University of Oslo, 2018. [[Link]](https://www.uio.no/studier/emner/sv/oekonomi/ECON4150/v18/)
-- Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
+#### Statistics
 - Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 - Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
 ### Datasets
+#### Forecasting
+- Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
+#### Marketing applications
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 - Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
 ### Packages
+#### Python
+##### Time Series
+- Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
+- HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
+- mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
+- NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
+- StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
+
 ### Papers
 #### Probabilistic Graphical Models
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
@@ -222,8 +242,11 @@ Here's what you can do:
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
 
 ### Talks, conferences, and videos
+#### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[[Link]](https://bcirwis2021.github.io/schedule.html)
 - Maxim Kochurov. State of Bayes Lecture Series. PyMC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
+#### Stochastic Processes
+- Hakenes, Hendrik. Ito's Lemma -- Some intuitive explanations on the solution of stochastic differential equations. University of Bonn, 2021. [[Link]](https://youtu.be/_4zyAFpJ_Z4?si=hd4aVpI3ClKavcyu)
 
 ## 📄 Text Mining and Natural Language Processing
 ### Books
@@ -235,24 +258,3 @@ Here's what you can do:
 ### Papers
 - Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420. [[Link]](https://arxiv.org/abs/1510.00726)
 ### Talks, conferences, and videos
-
-## 💹 Time Series and Stochastic Processes
-### Books
-- Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
-- Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
-- Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
-
-### Courses, lecture notes, and tutorials
-### Datasets
-- Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
-### Packages
-#### Python
-- Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
-- HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
-- mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
-- NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
-- StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
-
-### Papers
-### Talks, conferences, and videos
-- Hakenes, Hendrik. Ito's Lemma -- Some intuitive explanations on the solution of stochastic differential equations. University of Bonn, 2021. [[Link]](https://youtu.be/_4zyAFpJ_Z4?si=hd4aVpI3ClKavcyu)
