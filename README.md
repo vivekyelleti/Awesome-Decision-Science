@@ -210,6 +210,7 @@ Here's what you can do:
 ### Packages
 #### Python
 ##### Time Series
+- Fold. Fast Adaptive Time Series ML Engine. [[Link]](https://dream-faster.github.io/fold/)
 - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
 - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
 - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
