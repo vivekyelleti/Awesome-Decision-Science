@@ -26,6 +26,8 @@ Here's what you can do:
 - Simon Prince. Understanding Deep Learning. MIT Press, to appear. [[Link]](https://udlbook.github.io/udlbook/)
 - Aston Zhang, Zack Lipton, Mu Li, Alex Smola. Dive into Deep Learning. [[Link]](https://d2l.ai/)
 - Philipp Grohs, Gitta Kutyniok. Mathematical Aspects of Deep Learning. [[Link]](https://www.cambridge.org/core/books/mathematical-aspects-of-deep-learning/8D9B41D1E9BB8CA515E93412EECC2A7E)
+#### Explainable AI
+- Molnar, Christoph. Interpretable machine learning. Lulu. com, 2020. [[Link]](https://christophm.github.io/interpretable-ml-book/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
