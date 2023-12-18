@@ -40,7 +40,8 @@ Here's what you can do:
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
-
+#### Explainable AI
+- Lakkaraju, Hima, et al. Explainable Artificial Intelligence: From Simple Predictors to Complex Generative Models. Harvard University, 2023. [[Link]](https://interpretable-ml-class.github.io/)
 #### Machine Learning
 - MLU-Explain Team. MLU-Explain. Amazon (2021). [[Link]](https://mlu-explain.github.io/)
 #### Reinforcement Learning and Control Theory 
@@ -48,7 +49,6 @@ Here's what you can do:
 - Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
-
 ### Packages
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
@@ -109,7 +109,6 @@ Here's what you can do:
 - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
 - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
 - Vizro. Vizro is a toolkit for creating modular data visualization applications. [[Link]](https://github.com/mckinsey/vizro)
-
 ##### Julia
 - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
 ### Papers
@@ -127,7 +126,6 @@ Here's what you can do:
 - Petrov, Alex. Database Internals: A deep dive into how distributed data systems work. O'Reilly Media, 2019. [[Link]](https://www.databass.dev/)
 ### Courses, lecture notes, and tutorials
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
-
 ### Packages
 ### Papers
 ### Talks, conferences, and videos
@@ -163,7 +161,6 @@ Here's what you can do:
 - Sargent, Thomas J., and John Stachurski. Dynamic Programming Volume 1. QuantEcon, 2023. [[Link]](https://dp.quantecon.org/)
 #### Sequential Problems
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
-
 ### Courses, lecture notes, and tutorials
 - Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
@@ -225,13 +222,11 @@ Here's what you can do:
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 - Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018). [[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
-
 #### Statistics
 ##### Causality
 - Assaad, Charles K., Emilie Devijver, and Eric Gaussier. "Survey and evaluation of causal discovery methods for time series." Journal of Artificial Intelligence Research 73 (2022): 767-819. [[Link]](https://www.jair.org/index.php/jair/article/view/13428)
 ##### Distributions
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
-
 ##### Statistical hypothesis testing (NHST)
 - Gelman, Andrew. “Commentary: P Values and Statistical Practice.” Epidemiology, vol. 24, no. 1, 2013, pp. 69–72. JSTOR. Accessed 10 Dec. 2023. [[Link]](https://stat.columbia.edu/~gelman/research/published/asa_pvalues.pdf)
 - Greenland, Sander et al. “Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations.” European journal of epidemiology vol. 31,4 (2016): 337-50. doi:10.1007/s10654-016-0149-3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
