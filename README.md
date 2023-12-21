@@ -82,7 +82,7 @@ Here's what you can do:
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020). [[Link]](https://arxiv.org/abs/2005.07972)
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ##### Fuzzy sets
-- Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363.[[Link]](https://arxiv.org/abs/1901.11303)
+- Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363. [[Link]](https://arxiv.org/abs/1901.11303)
 ##### Training ML models
 - Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
 ### Talks, conferences, and videos
