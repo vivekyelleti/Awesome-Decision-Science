@@ -32,6 +32,8 @@ Here's what you can do:
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
+- Efron, Bradley, and Trevor Hastie. Computer age statistical inference, student edition: algorithms, evidence, and data science. Vol. 6. Cambridge University Press, 2021. [[Link]](https://hastie.su.domains/CASI/)
+- Hastie, Trevor, Robert Tibshirani, and Martin Wainwright. Statistical learning with sparsity: the lasso and generalizations. CRC press, 2015. [[Link]](https://hastie.su.domains/StatLearnSparsity/)
 - Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Grid Dynamics, 2017. [[Link]](https://www.algorithmicmarketingbook.com/)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
@@ -81,8 +83,6 @@ Here's what you can do:
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ##### Fuzzy sets
 - Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363.[[Link]](https://arxiv.org/abs/1901.11303)
-##### Philosophical aspects
-- Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 ##### Training ML models
 - Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
 ### Talks, conferences, and videos
@@ -170,6 +170,16 @@ Here's what you can do:
 ### Papers
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
+
+## 🤯 Methodology and philosophical aspects of Science
+###### Building theories
+- Jaccard, James, and Jacob Jacoby. Theory construction and model-building skills: A practical guide for social scientists. Guilford publications, 2019. [[Link]](https://www.guilford.com/books/Theory-Construction-and-Model-Building-Skills/Jaccard-Jacoby/9781462542437) [[Website]](https://www.theory-construction.com/Main.html)
+###### Machine Learning and Statistics
+- Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
+###### Mathematics
+- Polya, George. How to solve it: A new aspect of mathematical method. Vol. 85. Princeton university press, 2004. [[Link]](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
+###### General Science
+- Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002. [[Link]](https://www.wolframscience.com/nks/)
 
 ## 📈 Statistics, Econometrics, Time Series, Causality, and Clustering
 ### Books
