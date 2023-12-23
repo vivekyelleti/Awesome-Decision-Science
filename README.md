@@ -38,7 +38,7 @@ Here's what you can do:
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Siddiqi, Naeem. Intelligent credit scoring: Building and implementing better credit risk scorecards. John Wiley & Sons, 2017. [[Link]](https://www.wiley.com/en-fr/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 #### Deep Learning
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
@@ -81,10 +81,13 @@ Here's what you can do:
 - Angelopoulos, Anastasios N., and Stephen Bates. "A gentle introduction to conformal prediction and distribution-free uncertainty quantification." arXiv preprint arXiv:2107.07511 (2021). [[Link]](https://arxiv.org/abs/2107.07511)
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020). [[Link]](https://arxiv.org/abs/2005.07972)
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
+##### Explainable AI
+- Shapash. Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models. MAIF, 2021.[[Link]](https://maif.github.io/shapash/)
 ##### Fuzzy sets
 - Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363. [[Link]](https://arxiv.org/abs/1901.11303)
 ##### Training ML models
 - Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
+### Posts and threads
 ### Talks, conferences, and videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
@@ -97,13 +100,12 @@ Here's what you can do:
 - Knaflic, Cole Nussbaumer. Storytelling with data: let's practice!. John Wiley & Sons, 2019. [[Link]](https://www.storytellingwithdata.com/books)
 - Wexler, Steve, Jeffrey Shaffer, and Andy Cotgreave. The big book of dashboards: visualizing your data using real-world business scenarios. John Wiley & Sons, 2017. [[Link]](https://www.bigbookofdashboards.com/)
 - Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019. [[Link]](https://clauswilke.com/dataviz/)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 ### Datasets
 ### Packages
 #### Data structures
 ##### Python
 - Polars. Dataframes powered by a multithreaded, vectorized query engine, written in Rust. [[Link]](https://www.pola.rs/)
-
 #### Data Visualization and Reporting
 ##### Python
 - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
@@ -112,6 +114,7 @@ Here's what you can do:
 ##### Julia
 - Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
 ### Papers
+### Posts and threads
 ### Talks, conferences, and videos
 
 ## 💻 Computer Science and Software Engineering
@@ -126,10 +129,11 @@ Here's what you can do:
 - Chacon, Scott, and Ben Straub. Pro git. Springer Nature, 2014. [[Link]](https://git-scm.com/book/en/v2)
 #### Databases
 - Petrov, Alex. Database Internals: A deep dive into how distributed data systems work. O'Reilly Media, 2019. [[Link]](https://www.databass.dev/)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 ### Papers
+### Posts and threads
 ### Talks, conferences, and videos
 
 ## 🗺️ Geospatial Analysis
@@ -137,10 +141,11 @@ Here's what you can do:
 - Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. Geocomputation with R. CRC Press, 2019. [[Link]](https://r.geocompx.org/)
 - Moraga, Paula. Geospatial health data: Modeling and visualization with R-INLA and shiny. CRC Press, 2019. [[Link]](https://www.paulamoraga.com/book-geospatial/)
 - Moraga, Paula. Spatial Statistics for Data Science: Theory and Practice with R. CRC Press, 2023. [[Link]](https://www.paulamoraga.com/book-spatial/)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 ### Datasets
 ### Packages
 ### Papers
+### Posts and threads
 ### Talks, conferences, and videos
 
 ## 👩‍🔬 Mathematics, Operations Research, Game Theory, and Simulations
@@ -163,11 +168,12 @@ Here's what you can do:
 - Sargent, Thomas J., and John Stachurski. Dynamic Programming Volume 1. QuantEcon, 2023. [[Link]](https://dp.quantecon.org/)
 #### Sequential Problems
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 - Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
 ### Packages
 ### Papers
+### Posts and threads
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
@@ -210,7 +216,7 @@ Here's what you can do:
 - Cochrane, John H. "Time series for macroeconomics and finance." (1997). [[Link]](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea91f725f16202da96235d/1592431098027/time_series_book.pdf)
 - Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [[Link]](https://otexts.com/fpp3/)
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 #### Causal Inference
 - Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
 #### Econometrics
@@ -243,6 +249,8 @@ Here's what you can do:
 - Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018). [[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
 #### Statistics
+##### Bayesian Statistics
+- Clarke, Bertrand, and Yuling Yao. "A Cheat Sheet for Bayesian Prediction." arXiv preprint arXiv:2304.12218 (2023). [[Link]](https://arxiv.org/abs/2304.12218)
 ##### Causality
 - Assaad, Charles K., Emilie Devijver, and Eric Gaussier. "Survey and evaluation of causal discovery methods for time series." Journal of Artificial Intelligence Research 73 (2022): 767-819. [[Link]](https://www.jair.org/index.php/jair/article/view/13428)
 ##### Distributions
@@ -259,6 +267,9 @@ Here's what you can do:
 - Pernet, Cyril. “Null hypothesis significance testing: a short tutorial.” F1000Research vol. 4 621. 25 Aug. 2015, doi:10.12688/f1000research.6963.3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635437/)
 - Serdar, Ceyhan Ceran et al. “Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies.” Biochemia medica vol. 31,1 (2021): 010502. doi:10.11613/BM.2021.010502 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
+### Posts and threads
+#### Bayesian Statistics
+- Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[[Link]](https://bcirwis2021.github.io/schedule.html)
@@ -269,10 +280,11 @@ Here's what you can do:
 ## 📄 Text Mining and Natural Language Processing
 ### Books
 - Silge, Julia, and David Robinson. Text mining with R: A tidy approach. " O'Reilly Media, Inc.", 2017. [[Link]](https://www.tidytextmining.com/)
-### Courses, lecture notes, and tutorials
+### Courses and lecture notes, posts
 ### Datasets
 - Horwood, Ghraham V. Humanitarian Assistance and Disaster Relief (HA/DR) Articles and Lexicon. V1, Harvard Dataverse, 2017, doi:10.7910/DVN/TGOPRU. [[Link]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TGOPRU)
 ### Packages
 ### Papers
 - Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420. [[Link]](https://arxiv.org/abs/1510.00726)
+### Posts and threads
 ### Talks, conferences, and videos
