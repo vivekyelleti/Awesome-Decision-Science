@@ -177,9 +177,11 @@ Here's what you can do:
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
-## 🤯 Methodology and philosophical aspects of Science
+## 🤯 Methodology, interactions, and philosophical aspects of Science
 ###### Building theories
 - Jaccard, James, and Jacob Jacoby. Theory construction and model-building skills: A practical guide for social scientists. Guilford publications, 2019. [[Link]](https://www.guilford.com/books/Theory-Construction-and-Model-Building-Skills/Jaccard-Jacoby/9781462542437) [[Website]](https://www.theory-construction.com/Main.html)
+###### Computational Science
+- Judd, Kenneth. The Potential Partnership Between Economics and Computational Science. PyData Chicago, 2021. [[Link]](https://youtu.be/wcEktEN52tY?si=jr83xLEFTY7-5fRp)
 ###### Machine Learning and Statistics
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 ###### Mathematics
