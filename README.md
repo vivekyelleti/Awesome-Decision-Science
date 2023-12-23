@@ -218,6 +218,7 @@ Here's what you can do:
 - Neusser, Klaus. Time series econometrics. Springer publication, 2016. [[Link]](https://www.amazon.fr/Time-Econometrics-Klaus-Neusser-ebook/dp/B01H30JHNA/ref=sr_1_1?crid=1QZFENEHXT9DG&keywords=Neusser%2C+Klaus.+Time+series+econometrics&qid=1696924805&sprefix=neusser%2C+klaus.+time+series+econometrics%2Caps%2C92&sr=8-1)
 ### Courses and lecture notes, posts
 #### Causal Inference
+- Cunningham, Scott et al. Mixtape Sessions: Causal Inference. 2022. [[Link]](https://github.com/Mixtape-Sessions/)
 - Ding, Peng. "A First Course in Causal Inference." arXiv preprint arXiv:2305.18793 (2023). [[Link]](https://arxiv.org/abs/2305.18793)
 #### Econometrics
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
