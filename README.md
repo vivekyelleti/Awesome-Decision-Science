@@ -83,6 +83,7 @@ Here's what you can do:
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ##### Explainable AI
 - Shapash. Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models. MAIF, 2021.[[Link]](https://maif.github.io/shapash/)
+- Sudjianto, Agus, et al. "PiML Toolbox for Interpretable Machine Learning Model Development and Validation." arXiv preprint arXiv:2305.04214 (2023).
 ##### Fuzzy sets
 - Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363. [[Link]](https://arxiv.org/abs/1901.11303)
 ##### Training ML models
