@@ -274,6 +274,9 @@ Here's what you can do:
 ### Posts and threads
 #### Bayesian Statistics
 - Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
+#### Variable selection
+- gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
+
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.[[Link]](https://bcirwis2021.github.io/schedule.html)
