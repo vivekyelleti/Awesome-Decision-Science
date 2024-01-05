@@ -1,11 +1,11 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An evergrowing, professionally curated list of resources on everything decision-making.
 
-👍Do you like the project and want to help spread the word?👍
+👍Do you like the project and/or want to help spread the word?👍
 
 Here's what you can do:
 - give it a star⭐
-- add it to your watchlist👁️
+- add it to your watchlist to stay tuned👁️
 - contribute. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
 
 ❗Found a broken or missing link, a newer version of a resource, or a duplicate in the list? Please file an issue or make a pull request!❗
