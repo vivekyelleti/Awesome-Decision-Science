@@ -196,6 +196,7 @@ Here's what you can do:
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
 - Scrucca, Luca, et al. Model-Based Clustering, Classification, and Density Estimation Using mclust in R. Chapman and Hall/CRC, 2023. [[Link]](https://www.taylorfrancis.com/books/mono/10.1201/9781003277965/model-based-clustering-classification-density-estimation-using-mclust-luca-scrucca-chris-fraley-brendan-murphy-adrian-raftery)
 #### Econometrics
+- Ding, Peng. "Linear Model and Extensions." arXiv preprint arXiv:2401.00649 (2024). [[Link]](https://arxiv.org/abs/2401.00649)
 - Evans, Richard W., Computational Methods for Economists using Python, Open access Jupyter Book, v#.#.#, 2023. [[Link]](https://opensourceecon.github.io/CompMethods)
 - Wooldridge, Jeffrey M.. Introductory Econometrics: A Modern Approach. Brésil, Cengage Learning, 2020. [[Link]](https://www.amazon.fr/Introductory-Econometrics-Approach-Jeffrey-Wooldridge/dp/1337558869/ref=sr_1_1?crid=1B5NKJCMW9EM0&keywords=econometrics+a+modern+approach&psr=PDAY&qid=1696924730&s=pbdd&sprefix=econmetrics+a+modern+approach%2Cpbdd%2C94&sr=1-1)
 #### Statistics
