@@ -23,9 +23,9 @@ Here's what you can do:
 #### Deep Learning
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
-- Simon Prince. Understanding Deep Learning. MIT Press, to appear. [[Link]](https://udlbook.github.io/udlbook/)
-- Aston Zhang, Zack Lipton, Mu Li, Alex Smola. Dive into Deep Learning. [[Link]](https://d2l.ai/)
-- Philipp Grohs, Gitta Kutyniok. Mathematical Aspects of Deep Learning. [[Link]](https://www.cambridge.org/core/books/mathematical-aspects-of-deep-learning/8D9B41D1E9BB8CA515E93412EECC2A7E)
+- Grohs, Philipp, and Gitta Kutyniok, eds. Mathematical aspects of deep learning. Cambridge University Press, 2022. [[Link]](https://www.cambridge.org/core/books/mathematical-aspects-of-deep-learning/8D9B41D1E9BB8CA515E93412EECC2A7E)
+- Prince, Simon JD. Understanding Deep Learning. MIT press, 2023. [[Link]](https://udlbook.github.io/udlbook/)
+- Zhang, Aston, et al. Dive into deep learning. Cambridge University Press, 2023. [[Link]](https://d2l.ai/)
 #### Explainable AI
 - Molnar, Christoph. Interpretable machine learning. Lulu. com, 2020. [[Link]](https://christophm.github.io/interpretable-ml-book/)
 #### Machine Learning
