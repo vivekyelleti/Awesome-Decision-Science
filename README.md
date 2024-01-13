@@ -35,6 +35,7 @@ Here's what you can do:
 - Efron, Bradley, and Trevor Hastie. Computer age statistical inference, student edition: algorithms, evidence, and data science. Vol. 6. Cambridge University Press, 2021. [[Link]](https://hastie.su.domains/CASI/)
 - Hastie, Trevor, Robert Tibshirani, and Martin Wainwright. Statistical learning with sparsity: the lasso and generalizations. CRC press, 2015. [[Link]](https://hastie.su.domains/StatLearnSparsity/)
 - Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Grid Dynamics, 2017. [[Link]](https://www.algorithmicmarketingbook.com/)
+- MacKay, David JC. Information theory, inference and learning algorithms. Cambridge university press, 2003. [[Link]](https://inference.org.uk/itila/book.html)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
 - Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT Press, 2022. [[Link]](https://probml.github.io/pml-book/book1.html)
 - Siddiqi, Naeem. Intelligent credit scoring: Building and implementing better credit risk scorecards. John Wiley & Sons, 2017. [[Link]](https://www.wiley.com/en-fr/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
