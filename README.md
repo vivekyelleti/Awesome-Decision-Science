@@ -233,6 +233,7 @@ Here's what you can do:
 - Polars. Dataframes powered by a multithreaded, vectorized query engine, written in Rust. [[Link]](https://www.pola.rs/)
 #### Data Visualization and Reporting
 ##### Python
+- Marimo. marimo is an open-source reactive notebook for Python — reproducible, git-friendly, executable as a script, and shareable as an app. [[Link]](https://marimo.io/)
 - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
 - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
 - Vizro. Vizro is a toolkit for creating modular data visualization applications. [[Link]](https://github.com/mckinsey/vizro)
