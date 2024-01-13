@@ -12,9 +12,7 @@ Here's what you can do:
 
 ⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
 
-🍔Click on the hamburger next to the file name for a better browsing experience:
-
-<div style="text-align: center"><img src="./Navigation.png" width="800" /></div>
+🍔Click on the hamburger next to the file name for a better browsing experience.
 
 - [Awesome Decision Science ](#awesome-decision-science-)
   - [🤖 Artificial Intelligence and Computational Intelligence](#-artificial-intelligence-and-computational-intelligence)
