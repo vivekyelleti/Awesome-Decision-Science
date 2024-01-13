@@ -148,6 +148,7 @@ Here's what you can do:
 - Prince, Simon JD. Understanding Deep Learning. MIT press, 2023. [[Link]](https://udlbook.github.io/udlbook/)
 - Zhang, Aston, et al. Dive into deep learning. Cambridge University Press, 2023. [[Link]](https://d2l.ai/)
 #### Explainable AI
+- Biecek, Przemyslaw, and Tomasz Burzykowski. Explanatory model analysis: explore, explain, and examine predictive models. CRC Press, 2021. [[Link]](https://ema.drwhy.ai/)
 - Molnar, Christoph. Interpretable machine learning. Lulu. com, 2020. [[Link]](https://christophm.github.io/interpretable-ml-book/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
@@ -176,6 +177,7 @@ Here's what you can do:
 ### Packages
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
+- Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
 - Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
 ### Papers
 #### Deep Learning
