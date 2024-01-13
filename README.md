@@ -127,6 +127,7 @@ Here's what you can do:
 - Downey, Allen. Think Python. " O'Reilly Media, Inc.", 2012. [[Link]](https://greenteapress.com/wp/think-python-2e/)
 - Johnston, Nathaniel, and Dave Greene. Conway's Game of Life: Mathematics and Construction. Self-published, 2022. [[Link]](https://conwaylife.com/book/)
 - Miller, Brad, and David Ranum. Problem-solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
+- Nipkow, Tobias. "Functional Data Structures and Algorithms A Proof Assistant Approach." (2023). [[Link]](https://functional-algorithms-verified.org/)
 #### Software development
 - Chacon, Scott, and Ben Straub. Pro git. Springer Nature, 2014. [[Link]](https://git-scm.com/book/en/v2)
 #### Databases
