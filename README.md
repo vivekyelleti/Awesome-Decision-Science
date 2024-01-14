@@ -406,9 +406,9 @@ Here's what you can do:
 
 ### Talks, conferences, and videos
 #### Bayesian Statistics
-- Pragmatic Data Scientists. Making Informed Decisions with Bayesianism: A Conversation with Kenneth, Statistician at Meta. Pragmatic Data Scientist, 2023. [[Link]](https://www.youtube.com/watch?v=6269mm4XQOI)
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Link]](https://bcirwis2021.github.io/schedule.html)
 - Maxim Kochurov. State of Bayes Lecture Series. PyMC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
+- Pragmatic Data Scientists. Making Informed Decisions with Bayesianism: A Conversation with Kenneth, Statistician at Meta. Pragmatic Data Scientist, 2023. [[Link]](https://www.youtube.com/watch?v=6269mm4XQOI)
 #### Stochastic Processes
 - Hakenes, Hendrik. Ito's Lemma -- Some intuitive explanations on the solution of stochastic differential equations. University of Bonn, 2021. [[Link]](https://youtu.be/_4zyAFpJ_Z4?si=hd4aVpI3ClKavcyu)
 
