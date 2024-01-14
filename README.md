@@ -15,7 +15,7 @@ Here's what you can do:
 🍔Click on the hamburger next to the file name for a better browsing experience.
 
 - [Awesome Decision Science ](#awesome-decision-science-)
-  - [🤖 Artificial Intelligence and Computational Intelligence](#-artificial-intelligence-and-computational-intelligence)
+  - [🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning](#-artificial-intelligence-computational-intelligence-and-machine-learning)
     - [Books](#books)
       - [Computational Intelligence](#computational-intelligence)
       - [Deep Learning](#deep-learning)
@@ -39,6 +39,7 @@ Here's what you can do:
         - [Conformal Prediction](#conformal-prediction)
         - [Explainable AI](#explainable-ai-2)
         - [Fuzzy sets](#fuzzy-sets)
+        - [Imbalanced data problems](#imbalanced-data-problems)
         - [Training ML models](#training-ml-models)
     - [Posts and threads](#posts-and-threads)
     - [Talks, conferences, and videos](#talks-conferences-and-videos)
@@ -137,7 +138,7 @@ Here's what you can do:
     - [Posts and threads](#posts-and-threads-6)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-6)
 
-## 🤖 Artificial Intelligence and Computational Intelligence
+## 🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning
 ### Books
 #### Computational Intelligence
 - Engelbrecht, Andries P. Computational intelligence: an introduction. John Wiley & Sons, 2007. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470512517)
@@ -210,6 +211,9 @@ Here's what you can do:
 - Sudjianto, Agus, et al. "PiML Toolbox for Interpretable Machine Learning Model Development and Validation." arXiv preprint arXiv:2305.04214 (2023).
 ##### Fuzzy sets
 - Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363. [[Link]](https://arxiv.org/abs/1901.11303)
+##### Imbalanced data problems
+- Elor, Yotam, and Hadar Averbuch-Elor. "To SMOTE, or not to SMOTE?." arXiv preprint arXiv:2201.08528 (2022). [[Link]](https://arxiv.org/abs/2201.08528)
+- van den Goorbergh, Ruben, et al. "The harm of class imbalance corrections for risk prediction models: illustration and simulation using logistic regression." Journal of the American Medical Informatics Association 29.9 (2022): 1525-1534. [[Link]](https://academic.oup.com/jamia/article/29/9/1525/6605096)
 ##### Training ML models
 - Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
 ### Posts and threads
