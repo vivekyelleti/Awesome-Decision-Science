@@ -92,7 +92,7 @@ Here's what you can do:
     - [Computational Science](#computational-science)
     - [Machine Learning and Statistics](#machine-learning-and-statistics)
     - [Mathematics](#mathematics)
-    - [General Science](#general-science)
+    - [Scientific approaches](#scientific-approaches)
   - [📈 Statistics, Econometrics, Time Series, Causality, and Clustering](#-statistics-econometrics-time-series-causality-and-clustering)
     - [Books](#books-5)
       - [Clustering](#clustering)
@@ -313,7 +313,7 @@ Here's what you can do:
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
 ### Mathematics
 - Polya, George. How to solve it: A new aspect of mathematical method. Vol. 85. Princeton university press, 2004. [[Link]](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
-### General Science
+### Scientific approaches
 - Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002. [[Link]](https://www.wolframscience.com/nks/)
 
 ## 📈 Statistics, Econometrics, Time Series, Causality, and Clustering
