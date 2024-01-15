@@ -5,6 +5,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 
 Here's what you can do:
 - give it a star⭐
+- spread the word🔊
 - add it to your watchlist to stay tuned👁️
 - contribute. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
 
