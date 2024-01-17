@@ -391,7 +391,6 @@ Here's what you can do:
 - SKForecast. Simplifies using sklearn models to do single and multistep forecasting and backtesting. [[Link]](https://skforecast.org)
 - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 - ThymeBoost. Forecasting with Gradient Boosted Time Series Decomposition. [[Link]](https://github.com/tblume1992/ThymeBoost)
-
 ### Papers
 #### Probabilistic Graphical Models
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
