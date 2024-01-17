@@ -63,6 +63,8 @@ Here's what you can do:
       - [Software development](#software-development)
       - [Databases](#databases)
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-2)
+      - [Scientific programming](#scientific-programming)
+      - [Software engineering](#software-engineering)
     - [Packages](#packages-2)
     - [Papers](#papers-2)
     - [Posts and threads](#posts-and-threads-2)
@@ -263,6 +265,9 @@ Here's what you can do:
 #### Databases
 - Petrov, Alex. Database Internals: A deep dive into how distributed data systems work. O'Reilly Media, 2019. [[Link]](https://www.databass.dev/)
 ### Courses and lecture notes, posts
+#### Scientific programming
+- Raschka, Sebastian. Scientific Computing in Python: Introduction to NumPy and Matplotlib. sebastianraschka.com, 2020. [[Link]](https://sebastianraschka.com/blog/2020/numpy-intro.html)
+#### Software engineering
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 ### Papers
