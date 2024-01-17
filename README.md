@@ -153,6 +153,7 @@ Here's what you can do:
 - Zhang, Aston, et al. Dive into deep learning. Cambridge University Press, 2023. [[Link]](https://d2l.ai/)
 #### Explainable AI
 - Biecek, Przemyslaw, and Tomasz Burzykowski. Explanatory model analysis: explore, explain, and examine predictive models. CRC Press, 2021. [[Link]](https://ema.drwhy.ai/)
+- Hall, Curtis and Pandey. Machine Learning for High-Risk Applications. O'Reilly, 2023. [[Link]](https://www.oreilly.com/library/view/machine-learning-for/9781098102425/)
 - Molnar, Christoph. Interpretable machine learning. Lulu. com, 2020. [[Link]](https://christophm.github.io/interpretable-ml-book/)
 #### Machine Learning
 - Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: Springer, 2006. [[Link]](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
@@ -170,6 +171,7 @@ Here's what you can do:
 - Lippe, Phillip. UvA Deep Learning Tutorials. 2022. [[Link]](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 - Ollion, Charles, and Olivier Grisel. Deep Learning course: lecture slides and lab notebooks. Institut Polytechnique de Paris, 2017. [[Link]](https://m2dsupsdlclass.github.io/lectures-labs/)
 #### Explainable AI
+- Galli, Soledad. Interpreting Machine Learning Models [[Link]](https://www.trainindata.com/p/machine-learning-interpretability)
 - Lakkaraju, Hima, et al. Explainable Artificial Intelligence: From Simple Predictors to Complex Generative Models. Harvard University, 2023. [[Link]](https://interpretable-ml-class.github.io/)
 #### Machine Learning
 - Inria. Machine learning in Python with scikit-learn. FUN, 2023. [[Link]](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
@@ -183,7 +185,10 @@ Here's what you can do:
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
 - Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
+#### Explainable AI
+- Alibi explain. Open-source interpretability library supporting black box, white box, global and local interpratability methods. [[Link]](https://docs.seldon.io/projects/alibi)
 - Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
+- Scikit-explain. User-friendly Python module for machine learning explainability with a comprehensive toolset of interpretability methods. [[Link]](https://scikit-explain.readthedocs.io/)
 ### Papers
 #### Deep Learning
 ##### Bayesian approaches
@@ -367,6 +372,8 @@ Here's what you can do:
 #### Statistics
 - Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 - Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+#### Forecasting
+- Manani, Galli. Feature Engineering for Time Series Forecasting, 2022. [[Link]](https://www.trainindata.com/p/feature-engineering-for-forecasting)
 ### Datasets
 #### Forecasting
 - Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
@@ -381,6 +388,7 @@ Here's what you can do:
 - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
 - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
 - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
+- SKForecast. Simplifies using sklearn models to do single and multistep forecasting and backtesting. [[Link]](https://skforecast.org)
 - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 - ThymeBoost. Forecasting with Gradient Boosted Time Series Decomposition. [[Link]](https://github.com/tblume1992/ThymeBoost)
 ### Papers
