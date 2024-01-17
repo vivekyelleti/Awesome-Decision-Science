@@ -170,6 +170,7 @@ Here's what you can do:
 #### Explainable AI
 - Lakkaraju, Hima, et al. Explainable Artificial Intelligence: From Simple Predictors to Complex Generative Models. Harvard University, 2023. [[Link]](https://interpretable-ml-class.github.io/)
 #### Machine Learning
+- Inria. Machine learning in Python with scikit-learn. FUN, 2023. [[Link]](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 - MLU-Explain Team. MLU-Explain. Amazon (2021). [[Link]](https://mlu-explain.github.io/)
 #### Reinforcement Learning and Control Theory 
 - Dimitry Bertsekas. Reinforcement Learning and Optimal Control. [[Link]](http://www.mit.edu/~dimitrib/RLbook.html)
