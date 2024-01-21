@@ -30,6 +30,7 @@ Here's what you can do:
     - [Datasets](#datasets)
     - [Packages](#packages)
       - [Machine Learning](#machine-learning-2)
+      - [Explainable AI](#explainable-ai-2)
     - [Papers](#papers)
       - [Deep Learning](#deep-learning-2)
         - [Bayesian approaches](#bayesian-approaches)
@@ -38,7 +39,7 @@ Here's what you can do:
         - [Mathematical aspects: optimization](#mathematical-aspects-optimization)
       - [Machine Learning](#machine-learning-3)
         - [Conformal Prediction](#conformal-prediction)
-        - [Explainable AI](#explainable-ai-2)
+        - [Explainable AI](#explainable-ai-3)
         - [Fuzzy sets](#fuzzy-sets)
         - [Imbalanced data problems](#imbalanced-data-problems)
         - [Training ML models](#training-ml-models)
@@ -103,18 +104,19 @@ Here's what you can do:
       - [Econometrics](#econometrics)
       - [Statistics](#statistics)
         - [Bayesian Statistics](#bayesian-statistics)
+        - [Categorical data](#categorical-data)
         - [Inference and mathematical aspects](#inference-and-mathematical-aspects)
         - [Missing data](#missing-data)
         - [Regression modeling](#regression-modeling)
-        - [Special data](#special-data)
         - [Statistical software](#statistical-software)
       - [Time Series](#time-series)
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-5)
       - [Causal Inference](#causal-inference)
       - [Econometrics](#econometrics-1)
       - [Statistics](#statistics-1)
-    - [Datasets](#datasets-4)
       - [Forecasting](#forecasting)
+    - [Datasets](#datasets-4)
+      - [Forecasting](#forecasting-1)
       - [Marketing applications](#marketing-applications)
     - [Packages](#packages-5)
       - [Python](#python-2)
@@ -345,6 +347,8 @@ Here's what you can do:
 ##### Bayesian Statistics
 - Martin, Osvaldo A., Ravin Kumar, and Junpeng Lao. Bayesian modeling and computation in Python. CRC Press, 2021. [[Link]](https://bayesiancomputationbook.com/welcome.html)
 - McElreath, Richard. Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC, 2020. [[Link]](https://xcelab.net/rm/statistical-rethinking/)
+##### Categorical data
+- Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
 ##### Inference and mathematical aspects
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
 - Wasserman, Larry. All of nonparametric statistics. Springer Science & Business Media, 2006. [[Link]](https://link.springer.com/book/10.1007/0-387-30623-4)
@@ -353,8 +357,6 @@ Here's what you can do:
 - Van Buuren, Stef. Flexible imputation of missing data. CRC Press, 2018. [[Link]](https://stefvanbuuren.name/fimd/)
 ##### Regression modeling
 - McNulty, Keith. Handbook of regression modeling in people analytics: with examples in R and Python. CRC Press, 2021. [[Link]](https://peopleanalytics-regression-book.org/index.html)
-##### Special data
-- Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
 ##### Statistical software
 - Kuhn, Max, and Julia Silge. Tidy modeling with R. " O'Reilly Media, Inc.", 2022. [[Link]](https://www.tmwr.org/index.html)
 - Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.". [[Link]](https://r4ds.hadley.nz/)
@@ -370,8 +372,8 @@ Here's what you can do:
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 - De Haan, Monique. ECON4150 - Introductory Econometrics. University of Oslo, 2018. [[Link]](https://www.uio.no/studier/emner/sv/oekonomi/ECON4150/v18/)
 #### Statistics
-- Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 - Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+- Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 #### Forecasting
 - Manani, Galli. Feature Engineering for Time Series Forecasting, 2022. [[Link]](https://www.trainindata.com/p/feature-engineering-for-forecasting)
 ### Datasets
