@@ -98,7 +98,7 @@ Here's what you can do:
     - [Machine Learning and Statistics](#machine-learning-and-statistics)
     - [Mathematics](#mathematics)
     - [Scientific approaches](#scientific-approaches)
-  - [📈 Statistics, Econometrics, Time Series, Causality, and Clustering](#-statistics-econometrics-time-series-causality-and-clustering)
+  - [📈 Statistics, Econometrics, and Data Mining](#-statistics-econometrics-and-data-mining)
     - [Books](#books-5)
       - [Clustering](#clustering)
       - [Econometrics](#econometrics)
@@ -163,6 +163,7 @@ Here's what you can do:
 - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. An Introduction to Statistical Learning: With Applications in Python; Springer: Berlin/Heidelberg, Germany, 2023. [[Link]](https://www.statlearning.com/)
 - Efron, Bradley, and Trevor Hastie. Computer age statistical inference, student edition: algorithms, evidence, and data science. Vol. 6. Cambridge University Press, 2021. [[Link]](https://hastie.su.domains/CASI/)
 - Hastie, Trevor, Robert Tibshirani, and Martin Wainwright. Statistical learning with sparsity: the lasso and generalizations. CRC press, 2015. [[Link]](https://hastie.su.domains/StatLearnSparsity/)
+- Huber, Martin. Causal analysis: Impact evaluation and Causal Machine Learning with applications in R. MIT Press, 2023. [[Link]](https://mitpress.ublish.com/ebook/causal-analysis-impact-evaluation-and-causal-machine-learning-with-applications-in-r-preview/12759/Cover)
 - Katsov, Ilya. Introduction to algorithmic marketing: Artificial intelligence for marketing operations. Grid Dynamics, 2017. [[Link]](https://www.algorithmicmarketingbook.com/)
 - MacKay, David JC. Information theory, inference and learning algorithms. Cambridge university press, 2003. [[Link]](https://inference.org.uk/itila/book.html)
 - Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT Press, 2023. [[Link]](https://probml.github.io/pml-book/book2.html)
@@ -334,7 +335,7 @@ Here's what you can do:
 ### Scientific approaches
 - Wolfram, Stephen. A new kind of science. Vol. 5. Champaign, IL: Wolfram media, 2002. [[Link]](https://www.wolframscience.com/nks/)
 
-## 📈 Statistics, Econometrics, Time Series, Causality, and Clustering
+## 📈 Statistics, Econometrics, and Data Mining
 ### Books
 #### Clustering
 - Govaert, Gérard, and Mohamed Nadif. Co-clustering: models, algorithms and applications. John Wiley & Sons, 2013. [[Link]](https://www.amazon.fr/Co-Clustering-G%C3%A9rard-Govaert/dp/1848214731/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1697294646&sr=8-1)
