@@ -113,7 +113,7 @@ Here's what you can do:
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-5)
       - [Causal Inference](#causal-inference)
       - [Econometrics](#econometrics-1)
-      - [Statistics](#statistics-1)
+      - [Statistics \& Probability](#statistics--probability)
       - [Forecasting](#forecasting)
     - [Datasets](#datasets-4)
       - [Forecasting](#forecasting-1)
@@ -123,7 +123,7 @@ Here's what you can do:
         - [Time Series](#time-series-1)
     - [Papers](#papers-5)
       - [Probabilistic Graphical Models](#probabilistic-graphical-models)
-      - [Statistics](#statistics-2)
+      - [Statistics](#statistics-1)
         - [Bayesian Statistics](#bayesian-statistics-1)
         - [Causality](#causality)
         - [Distributions](#distributions)
@@ -372,7 +372,8 @@ Here's what you can do:
 #### Econometrics
 - Canay, Ivan. Econ 480-3 - Introduction to Econometrics. Northwestern University, 2021. [[Link]](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 - De Haan, Monique. ECON4150 - Introductory Econometrics. University of Oslo, 2018. [[Link]](https://www.uio.no/studier/emner/sv/oekonomi/ECON4150/v18/)
-#### Statistics
+#### Statistics & Probability
+- Dunn, Peter  K. The Theory of Distributions, 2023. [[Link]](https://bookdown.org/pkaldunn/DistTheory/)
 - Kozyrkov, Cassie. Statistical Thinking. YouTube, 2019. [[Link]](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
 - Kunin, Daniel, et al. Seeing Theory. Brown University, 2016. [[Link]](https://seeing-theory.brown.edu/)
 #### Forecasting
