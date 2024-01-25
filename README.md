@@ -104,7 +104,7 @@ Here's what you can do:
       - [Econometrics](#econometrics)
       - [Statistics](#statistics)
         - [Bayesian Statistics](#bayesian-statistics)
-        - [Categorical data](#categorical-data)
+        - [Exponential family](#exponential-family)
         - [Inference and mathematical aspects](#inference-and-mathematical-aspects)
         - [Missing data](#missing-data)
         - [Regression modeling](#regression-modeling)
@@ -348,8 +348,9 @@ Here's what you can do:
 ##### Bayesian Statistics
 - Martin, Osvaldo A., Ravin Kumar, and Junpeng Lao. Bayesian modeling and computation in Python. CRC Press, 2021. [[Link]](https://bayesiancomputationbook.com/welcome.html)
 - McElreath, Richard. Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC, 2020. [[Link]](https://xcelab.net/rm/statistical-rethinking/)
-##### Categorical data
+##### Exponential family
 - Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
+- Efron, Bradley. Exponential families in theory and practice. Cambridge University Press, 2022. [[Link]](https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Efron2018.pdf)
 ##### Inference and mathematical aspects
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
 - Wasserman, Larry. All of nonparametric statistics. Springer Science & Business Media, 2006. [[Link]](https://link.springer.com/book/10.1007/0-387-30623-4)
