@@ -122,6 +122,7 @@ Here's what you can do:
     - [Packages](#packages-5)
       - [Python](#python-2)
         - [Time Series](#time-series-1)
+      - [R](#r)
     - [Papers](#papers-5)
       - [Probabilistic Graphical Models](#probabilistic-graphical-models)
       - [Statistics](#statistics-1)
@@ -399,6 +400,8 @@ Here's what you can do:
 - SKForecast. Simplifies using sklearn models to do single and multistep forecasting and backtesting. [[Link]](https://skforecast.org)
 - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 - ThymeBoost. Forecasting with Gradient Boosted Time Series Decomposition. [[Link]](https://github.com/tblume1992/ThymeBoost)
+#### R
+- Ross, Gordon J., and Dean Markwick. "dirichletprocess: An R package for fitting complex Bayesian nonparametric models." (2018). [[Link]](https://cloud.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf)
 ### Papers
 #### Probabilistic Graphical Models
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
