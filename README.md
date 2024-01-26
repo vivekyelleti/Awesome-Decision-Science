@@ -87,6 +87,8 @@ Here's what you can do:
       - [Optimization](#optimization)
       - [Sequential Problems](#sequential-problems)
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-4)
+      - [Mathematical Finance](#mathematical-finance)
+      - [Probability](#probability)
     - [Datasets](#datasets-3)
     - [Packages](#packages-4)
     - [Papers](#papers-4)
@@ -317,6 +319,9 @@ Here's what you can do:
 #### Sequential Problems
 - Powell, Warren B. Sequential decision analytics and modeling: modeling with Python. Now, 2022. [[Link]](https://castle.princeton.edu/sdamodeling/)
 ### Courses and lecture notes, posts
+#### Mathematical Finance
+- Kempthorne, Peter, et al. "Topics in mathematics with applications in finance." Massachusetts Institute of Technology: MIT OpenCouseWare, 2013. [[Link]](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+#### Probability
 - Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
 ### Packages
