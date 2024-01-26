@@ -105,6 +105,7 @@ Here's what you can do:
       - [Statistics](#statistics)
         - [Bayesian Statistics](#bayesian-statistics)
         - [Exponential family](#exponential-family)
+        - [Historical aspects](#historical-aspects)
         - [Inference and mathematical aspects](#inference-and-mathematical-aspects)
         - [Missing data](#missing-data)
         - [Regression modeling](#regression-modeling)
@@ -351,6 +352,8 @@ Here's what you can do:
 ##### Exponential family
 - Agresti, Alan. Categorical data analysis. Vol. 792. John Wiley & Sons, 2012. [[Link]](https://www.wiley.com/en-us/Categorical+Data+Analysis%2C+3rd+Edition-p-9781118710944)
 - Efron, Bradley. Exponential families in theory and practice. Cambridge University Press, 2022. [[Link]](https://www.cs.columbia.edu/~blei/fogm/2018F/materials/Efron2018.pdf)
+##### Historical aspects
+- Fischer, Hans. A history of the central limit theorem: from classical to modern probability theory. Vol. 4. New York: Springer, 2011. [[Link]](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/HistoryCentralLimitTheorem.pdf)
 ##### Inference and mathematical aspects
 - Soch, Joram, et al. StatProofBook/StatProofBook.Github.Io: StatProofBook 2021. 2021, Zenodo, 2022. [[Link]](https://statproofbook.github.io/)
 - Wasserman, Larry. All of nonparametric statistics. Springer Science & Business Media, 2006. [[Link]](https://link.springer.com/book/10.1007/0-387-30623-4)
