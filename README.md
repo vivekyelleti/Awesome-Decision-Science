@@ -126,7 +126,7 @@ Here's what you can do:
         - [Time Series](#time-series-1)
       - [R](#r)
     - [Papers](#papers-5)
-      - [Probabilistic Graphical Models](#probabilistic-graphical-models)
+      - [Probabilistic Graphical Models and associated optimization techniques](#probabilistic-graphical-models-and-associated-optimization-techniques)
       - [Statistics](#statistics-1)
         - [Bayesian Statistics](#bayesian-statistics-1)
         - [Causality](#causality)
@@ -408,12 +408,13 @@ Here's what you can do:
 #### R
 - Ross, Gordon J., and Dean Markwick. "dirichletprocess: An R package for fitting complex Bayesian nonparametric models." (2018). [[Link]](https://cloud.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf)
 ### Papers
-#### Probabilistic Graphical Models
+#### Probabilistic Graphical Models and associated optimization techniques
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
 - Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. "Variational inference: A review for statisticians." Journal of the American Statistical Association 112.518 (2017): 859-877. [[Link]](https://arxiv.org/pdf/1601.00670)
 - Dieng, Adji Bousso. Deep Probabilistic Graphical Modeling. Columbia University, 2020. [[Link]](https://arxiv.org/abs/2104.12053)
 - Figurnov, Mikhail, Shakir Mohamed, and Andriy Mnih. "Implicit reparameterization gradients." Advances in neural information processing systems 31 (2018). [[Link]](https://proceedings.neurips.cc/paper_files/paper/2018/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf)
 - Gelman, Andrew, Xiao-Li Meng, and Hal Stern. "Posterior predictive assessment of model fitness via realized discrepancies." Statistica sinica (1996): 733-760. [[Link]](https://www.jstor.org/stable/24306036)
+- Kim, Kyurae, et al. "Black-Box Variational Inference Converges." arXiv preprint arXiv:2305.15349 (2023). [[Link]](https://arxiv.org/abs/2305.15349)
 #### Statistics
 ##### Bayesian Statistics
 - Clarke, Bertrand, and Yuling Yao. "A Cheat Sheet for Bayesian Prediction." arXiv preprint arXiv:2304.12218 (2023). [[Link]](https://arxiv.org/abs/2304.12218)
