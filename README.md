@@ -191,10 +191,10 @@ Here's what you can do:
 ### Packages
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
-- Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
+- Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
 #### Explainable AI
 - Alibi explain. Open-source interpretability library supporting black box, white box, global and local interpratability methods. [[Link]](https://docs.seldon.io/projects/alibi)
-- Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
+- Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
 - Scikit-explain. User-friendly Python module for machine learning explainability with a comprehensive toolset of interpretability methods. [[Link]](https://scikit-explain.readthedocs.io/)
 ### Papers
 #### Deep Learning
