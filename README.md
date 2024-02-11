@@ -321,6 +321,7 @@ Here's what you can do:
 ### Courses and lecture notes, posts
 #### Mathematical Finance
 - Kempthorne, Peter, et al. "Topics in mathematics with applications in finance." Massachusetts Institute of Technology: MIT OpenCouseWare, 2013. [[Link]](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- Roncalli, Thierry, Course 2023-2024 in Portfolio Allocation and Asset Management. SSRN, 2024. [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4698165&s=09)
 #### Probability
 - Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
