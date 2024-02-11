@@ -53,9 +53,9 @@ Here's what you can do:
       - [Data structures](#data-structures)
         - [Python](#python)
       - [Data Visualization and Reporting](#data-visualization-and-reporting)
-        - [Python](#python-1)
         - [Julia](#julia)
-    - [Papers](#papers-1)
+          - [Python](#python-1)
+  - [Papers](#papers-1)
     - [Posts and threads](#posts-and-threads-1)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-1)
   - [💻 Computer Science and Software Engineering](#-computer-science-and-software-engineering)
@@ -252,14 +252,14 @@ Here's what you can do:
 ##### Python
 - Polars. Dataframes powered by a multithreaded, vectorized query engine, written in Rust. [[Link]](https://www.pola.rs/)
 #### Data Visualization and Reporting
-##### Python
+##### Julia
+- Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
+###### Python
 - Marimo. marimo is an open-source reactive notebook for Python — reproducible, git-friendly, executable as a script, and shareable as an app. [[Link]](https://marimo.io/)
 - PyGWalker. Turn your pandas dataframe into an interactive UI for visual analysis. [[Link]](https://docs.kanaries.net/pygwalker)
 - Streamlit. A faster way to build and share data apps. [[Link]](https://streamlit.io/)
 - Vizro. Vizro is a toolkit for creating modular data visualization applications. [[Link]](https://github.com/mckinsey/vizro)
-##### Julia
-- Genie. 🧞The highly productive Julia web framework. [[Link]](https://genieframework.com/)
-### Papers
+## Papers
 ### Posts and threads
 ### Talks, conferences, and videos
 
