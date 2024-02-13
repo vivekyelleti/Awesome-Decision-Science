@@ -444,6 +444,7 @@ Here's what you can do:
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Link]](https://bcirwis2021.github.io/schedule.html)
+- Jordan, Michael. Nonparametric Bayesian Methods: Models, Algorithms, and Applications II. UC Berkeley, 2017 [[Link]](https://youtu.be/yfLoxwjCGNY?si=wdmK-yGImMiPihDk)
 - Maxim Kochurov. State of Bayes Lecture Series. PyMC Labs, 2023. [[Link]](https://www.youtube.com/watch?v=X4y2UfU-2cs&list=PL1iMFW7frOOsh5KOcfvKWM12bjh8zs9BQ)
 - Pragmatic Data Scientists. Making Informed Decisions with Bayesianism: A Conversation with Kenneth, Statistician at Meta. Pragmatic Data Scientist, 2023. [[Link]](https://www.youtube.com/watch?v=6269mm4XQOI)
 #### Stochastic Processes
