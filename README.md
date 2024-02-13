@@ -434,6 +434,7 @@ Here's what you can do:
 - Olszewski, Adrian. On the p-values - links library significance ditching. Adrian Olszewski, 2022. [[Link]](https://docs.google.com/document/d/16KXpFW_nvF9l0eNlc56c-yY-B9VziPGWEkyDjibvwp8/edit)
 - Pernet, Cyril. “Null hypothesis significance testing: a short tutorial.” F1000Research vol. 4 621. 25 Aug. 2015, doi:10.12688/f1000research.6963.3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635437/)
 - Serdar, Ceyhan Ceran et al. “Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies.” Biochemia medica vol. 31,1 (2021): 010502. doi:10.11613/BM.2021.010502 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)
+- The American Statistician, Volume 73, Issue sup1 (2019) [[Link]](https://www.tandfonline.com/toc/utas20/73/sup1)
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
 ### Posts and threads
 #### Bayesian Statistics
