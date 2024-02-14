@@ -428,6 +428,7 @@ Here's what you can do:
 - Assaad, Charles K., Emilie Devijver, and Eric Gaussier. "Survey and evaluation of causal discovery methods for time series." Journal of Artificial Intelligence Research 73 (2022): 767-819. [[Link]](https://www.jair.org/index.php/jair/article/view/13428)
 ##### Distributions
 - Leemis, Lawrence M., and Jacquelyn T. McQueston. "Univariate distribution relationships." The American Statistician 62.1 (2008): 45-53. [[Paper]](https://www.math.wm.edu/~leemis/2008amstat.pdf) [[Website]](https://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
+- Olszewski, Adrian. Challenging the cult of the prevalent normal distribution in nature. 2KMM, 2023. [[Link]](https://www.2kmm.pl/blog/On-the-ubiquity-of-skewness-in-nature/)
 ##### Statistical hypothesis testing (NHST)
 - Gelman, Andrew. “Commentary: P Values and Statistical Practice.” Epidemiology, vol. 24, no. 1, 2013, pp. 69–72. JSTOR. Accessed 10 Dec. 2023. [[Link]](https://stat.columbia.edu/~gelman/research/published/asa_pvalues.pdf)
 - Greenland, Sander et al. “Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations.” European journal of epidemiology vol. 31,4 (2016): 337-50. doi:10.1007/s10654-016-0149-3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
