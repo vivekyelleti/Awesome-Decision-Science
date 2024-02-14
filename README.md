@@ -67,6 +67,8 @@ Here's what you can do:
       - [Scientific programming](#scientific-programming)
       - [Software engineering](#software-engineering)
     - [Packages](#packages-2)
+      - [Python](#python-2)
+        - [GUI](#gui)
     - [Papers](#papers-2)
     - [Posts and threads](#posts-and-threads-2)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-2)
@@ -122,7 +124,7 @@ Here's what you can do:
       - [Forecasting](#forecasting-1)
       - [Marketing applications](#marketing-applications)
     - [Packages](#packages-5)
-      - [Python](#python-2)
+      - [Python](#python-3)
         - [Time Series](#time-series-1)
       - [R](#r)
     - [Papers](#papers-5)
@@ -282,6 +284,9 @@ Here's what you can do:
 #### Software engineering
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
+#### Python
+##### GUI
+- Textualize. The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. [[Link]](https://github.com/Textualize/textual)
 ### Papers
 ### Posts and threads
 ### Talks, conferences, and videos
