@@ -286,7 +286,7 @@ Here's what you can do:
 ### Packages
 #### Python
 ##### GUI
-- Textualize. The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. [[Link]](https://github.com/Textualize/textual)
+- Textual. The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. [[Link]](https://github.com/Textualize/textual)
 ### Papers
 ### Posts and threads
 ### Talks, conferences, and videos
