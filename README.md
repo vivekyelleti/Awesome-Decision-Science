@@ -29,6 +29,7 @@ Here's what you can do:
       - [Reinforcement Learning and Control Theory](#reinforcement-learning-and-control-theory)
     - [Datasets](#datasets)
     - [Packages](#packages)
+      - [Feature Engineering](#feature-engineering)
       - [Machine Learning](#machine-learning-2)
       - [Explainable AI](#explainable-ai-2)
     - [Papers](#papers)
@@ -191,6 +192,8 @@ Here's what you can do:
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
+#### Feature Engineering
+- Feature_engine. Feature engineering package with sklearn like functionality. [[Link]](https://feature-engine.trainindata.com/en/latest/)
 #### Machine Learning
 - Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
 - Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
