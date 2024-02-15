@@ -423,6 +423,7 @@ Here's what you can do:
 - SKForecast. Simplifies using sklearn models to do single and multistep forecasting and backtesting. [[Link]](https://skforecast.org)
 - StatsForecast. Lightning ⚡️ fast forecasting with statistical and econometric models. [[Link]](https://nixtla.github.io/statsforecast/)
 - ThymeBoost. Forecasting with Gradient Boosted Time Series Decomposition. [[Link]](https://github.com/tblume1992/ThymeBoost)
+- vectorbt. Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research. [[Link]](https://github.com/polakowo/vectorbt)
 #### R
 - Ross, Gordon J., and Dean Markwick. "dirichletprocess: An R package for fitting complex Bayesian nonparametric models." (2018). [[Link]](https://cloud.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf)
 ### Papers
