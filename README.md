@@ -66,6 +66,7 @@ Here's what you can do:
       - [Software development](#software-development)
       - [Databases](#databases)
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-2)
+      - [Algorithms](#algorithms)
       - [Scientific programming](#scientific-programming)
       - [Software engineering](#software-engineering)
     - [Packages](#packages-2)
@@ -288,6 +289,8 @@ Here's what you can do:
 #### Databases
 - Petrov, Alex. Database Internals: A deep dive into how distributed data systems work. O'Reilly Media, 2019. [[Link]](https://www.databass.dev/)
 ### Courses and lecture notes, posts
+#### Algorithms
+- Roughgarden, Tim. Lecture Notes. Columbia University. [[Link]](https://timroughgarden.org/notes.html)
 #### Scientific programming
 - Raschka, Sebastian. Scientific Computing in Python: Introduction to NumPy and Matplotlib. sebastianraschka.com, 2020. [[Link]](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 #### Software engineering
