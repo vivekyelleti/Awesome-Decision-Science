@@ -100,6 +100,7 @@ Here's what you can do:
       - [Optimization](#optimization-1)
     - [Papers](#papers-4)
     - [Posts and threads](#posts-and-threads-4)
+      - [Optimization](#optimization-2)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-4)
   - [🤯 Methodology, interactions, and philosophical aspects of Science](#-methodology-interactions-and-philosophical-aspects-of-science)
     - [Building theories](#building-theories)
@@ -351,6 +352,8 @@ Here's what you can do:
 - scikit-portfolio. A portfolio optimization tool with scikit-learn interface. Hyperparameters selection and easy plotting of efficient frontiers. [[Link]](https://scikit-portfolio.github.io/scikit-portfolio/)
 ### Papers
 ### Posts and threads
+#### Optimization
+- Jones, Andy. Natural gradients. Andy Jones. [[Link]](https://andrewcharlesjones.github.io/journal/natural-gradients.html)
 ### Talks, conferences, and videos
 - MATLAB. Why Padé Approximations Are Great! | Control Systems in Practice. YouTube, 2022. [[Link]](https://www.youtube.com/watch?v=3TK8Fi_I0h0)
 
