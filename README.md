@@ -478,5 +478,6 @@ Here's what you can do:
 ### Packages
 ### Papers
 - Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420. [[Link]](https://arxiv.org/abs/1510.00726)
+- Minaee, Shervin, et al. "Large Language Models: A Survey." arXiv preprint arXiv:2402.06196 (2024). [[Link]](https://arxiv.org/abs/2402.06196)
 ### Posts and threads
 ### Talks, conferences, and videos
