@@ -70,6 +70,7 @@ Here's what you can do:
       - [Software engineering](#software-engineering)
     - [Packages](#packages-2)
       - [Python](#python-2)
+        - [Data processing](#data-processing)
         - [GUI](#gui)
     - [Papers](#papers-2)
     - [Posts and threads](#posts-and-threads-2)
@@ -293,6 +294,8 @@ Here's what you can do:
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 #### Python
+##### Data processing
+- Bytewax. Python Stream Processing. [[Link]](https://bytewax.io/)
 ##### GUI
 - Textual. The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. [[Link]](https://github.com/Textualize/textual)
 ### Papers
@@ -415,9 +418,11 @@ Here's what you can do:
 ### Packages
 #### Python
 ##### Time Series
+- Alexandrov, Alexander, et al. "Gluonts: Probabilistic and neural time series modeling in python." The Journal of Machine Learning Research 21.1 (2020): 4629-4634. [[Link]](https://ts.gluon.ai/stable/)
 - Fold. Fast Adaptive Time Series ML Engine. [[Link]](https://dream-faster.github.io/fold/)
 - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
 - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
+- MFLES. A Specific implementation from ThymeBoost written with the help of Numba. [[Link]](https://github.com/tblume1992/MFLES)
 - mlforecast. Scalable machine 🤖 learning for time series forecasting. [[Link]](https://nixtla.github.io/mlforecast/)
 - NeuralForecast. Scalable and user-friendly neural 🧠 forecasting algorithms. [[Link]](https://nixtla.github.io/neuralforecast/)
 - SKForecast. Simplifies using sklearn models to do single and multistep forecasting and backtesting. [[Link]](https://skforecast.org)
@@ -457,6 +462,7 @@ Here's what you can do:
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
 ### Posts and threads
 #### Bayesian Statistics
+- Camara-Escudero, Mauro. Variational Auto-Encoders and the Expectation-Maximization Algorithm. Mauro Camara-Escudero, 2020. [[Link]](https://maurocamaraescudero.netlify.app/post/variational-auto-encoders-and-the-expectation-maximization-algorithm/)
 - Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
 #### Variable selection
 - gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
