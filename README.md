@@ -29,16 +29,17 @@ Here's what you can do:
       - [Reinforcement Learning and Control Theory](#reinforcement-learning-and-control-theory)
     - [Datasets](#datasets)
     - [Packages](#packages)
-      - [Feature Engineering](#feature-engineering)
-      - [Machine Learning](#machine-learning-2)
       - [Explainable AI](#explainable-ai-2)
+      - [Feature Engineering](#feature-engineering)
+      - [Hyperparameter optimization](#hyperparameter-optimization)
+      - [Machine Learning techniques](#machine-learning-techniques)
     - [Papers](#papers)
       - [Deep Learning](#deep-learning-2)
         - [Bayesian approaches](#bayesian-approaches)
         - [Generative aspects](#generative-aspects)
         - [Mathematical aspects: approximation and generalization](#mathematical-aspects-approximation-and-generalization)
         - [Mathematical aspects: optimization](#mathematical-aspects-optimization)
-      - [Machine Learning](#machine-learning-3)
+      - [Machine Learning](#machine-learning-2)
         - [Conformal Prediction](#conformal-prediction)
         - [Explainable AI](#explainable-ai-3)
         - [Fuzzy sets](#fuzzy-sets)
@@ -94,6 +95,7 @@ Here's what you can do:
       - [Probability](#probability)
     - [Datasets](#datasets-3)
     - [Packages](#packages-4)
+      - [Optimization](#optimization-1)
     - [Papers](#papers-4)
     - [Posts and threads](#posts-and-threads-4)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-4)
@@ -192,15 +194,18 @@ Here's what you can do:
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
-#### Feature Engineering
-- Feature_engine. Feature engineering package with sklearn like functionality. [[Link]](https://feature-engine.trainindata.com/en/latest/)
-#### Machine Learning
-- Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
-- Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
 #### Explainable AI
 - Alibi explain. Open-source interpretability library supporting black box, white box, global and local interpratability methods. [[Link]](https://docs.seldon.io/projects/alibi)
 - Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
 - Scikit-explain. User-friendly Python module for machine learning explainability with a comprehensive toolset of interpretability methods. [[Link]](https://scikit-explain.readthedocs.io/)
+#### Feature Engineering
+- Feature_engine. Feature engineering package with sklearn like functionality. [[Link]](https://feature-engine.trainindata.com/en/latest/)
+#### Hyperparameter optimization
+- Optuna. A hyperparameter optimization framework. [[Link]](https://optuna.org/)
+#### Machine Learning techniques
+- Catboost. A fast, scalable, high-performance Gradient Boosting on Decision Trees library used for ranking, classification, regression, and other machine learning tasks for Python, R, Java, and C++. Supports computation on CPU and GPU. [[Link]](https://catboost.ai/)
+- Khuat, Thanh Tung, and Bogdan Gabrys. "hyperbox-brain: A Toolbox for Hyperbox-based Machine Learning Algorithms." arXiv preprint arXiv:2210.02704 (2022). [[Link]](https://arxiv.org/abs/2210.02704)
+- quantile-forest. Quantile Regression Forests compatible with scikit-learn. [[Link]](https://zillow.github.io/quantile-forest/)
 ### Papers
 #### Deep Learning
 ##### Bayesian approaches
@@ -334,6 +339,10 @@ Here's what you can do:
 - Arya, Nisha. Learn Probability in Computer Science with Stanford University for FREE. KDNuggets, 2023. [[Link]](https://www.kdnuggets.com/learn-probability-in-computer-science-with-stanford-university-for-free)
 ### Datasets
 ### Packages
+#### Optimization
+- cvxpy. A Python-embedded modeling language for convex optimization problems. [[Link]](https://www.cvxpy.org/)
+- PyPortfolioOpt. Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity. [[Link]](https://github.com/robertmartin8/PyPortfolioOpt)
+- scikit-portfolio. A portfolio optimization tool with scikit-learn interface. Hyperparameters selection and easy plotting of efficient frontiers. [[Link]](https://scikit-portfolio.github.io/scikit-portfolio/)
 ### Papers
 ### Posts and threads
 ### Talks, conferences, and videos
