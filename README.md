@@ -467,6 +467,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 ### Posts and threads
 #### Bayesian Statistics
 - Camara-Escudero, Mauro. Variational Auto-Encoders and the Expectation-Maximization Algorithm. Mauro Camara-Escudero, 2020. [[Link]](https://maurocamaraescudero.netlify.app/post/variational-auto-encoders-and-the-expectation-maximization-algorithm/)
+- Patacchiola, Massimiliano. Evidence, KL-divergence, and ELBO. Massimiliano Patacchiola, 2021. [[Link]](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
 - Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
 #### Variable selection / Feature selection
 - gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
