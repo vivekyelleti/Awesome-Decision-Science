@@ -1,17 +1,7 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An evergrowing, professionally curated list of resources on everything decision-making: videos, tutorials, books, papers, theses, articles, datasets, and open-source libraries.
 
-👍Do you like the project and/or want to help spread the word?👍
-
-Here's what you can do:
-- give it a star⭐
-- spread the word🔊
-- add it to your watchlist to stay tuned👁️
-- contribute. Please check the [contribution guidelines](https://github.com/mpalenciaolivar/Awesome-Decision-Science/blob/main/CONTRIBUTING.md) first.
-
-❗Found a broken or missing link, a newer version of a resource, or a duplicate in the list? Please file an issue or make a pull request!❗
-
-⚠️ We try to add as many free resources as possible, but good resources do not always come free. We do *not* earn any money from sales. ⚠️
+📢Need help with your data science or software engineering project? We got you covered. We are statisticians who know a lot about computing and computer scientists who know a lot about statistics. [More about us](https://www.cognitive-works.com)
 
 🍔Click on the hamburger next to the file name for a better browsing experience.
 
@@ -29,6 +19,7 @@ Here's what you can do:
       - [Reinforcement Learning and Control Theory](#reinforcement-learning-and-control-theory)
     - [Datasets](#datasets)
     - [Packages](#packages)
+      - [Data loading](#data-loading)
       - [Explainable AI](#explainable-ai-2)
       - [Feature Engineering](#feature-engineering)
       - [Hyperparameter optimization](#hyperparameter-optimization)
@@ -197,6 +188,8 @@ Here's what you can do:
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
 ### Packages
+#### Data loading
+- mlx-data. Efficient framework-agnostic data loading. Apple, 2023. [[Link]](https://github.com/ml-explore/mlx-data)
 #### Explainable AI
 - Alibi explain. Open-source interpretability library supporting black box, white box, global and local interpratability methods. [[Link]](https://docs.seldon.io/projects/alibi)
 - Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
@@ -295,6 +288,8 @@ Here's what you can do:
 #### Scientific programming
 - Raschka, Sebastian. Scientific Computing in Python: Introduction to NumPy and Matplotlib. sebastianraschka.com, 2020. [[Link]](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 #### Software engineering
+- Atlassian. Gitflow workflow. [[Link]](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- Atlassian. Trunk-based development. [[Link]](Trunk-based development)
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 #### Python
