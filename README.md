@@ -134,7 +134,7 @@ An evergrowing, professionally curated list of resources on everything decision-
         - [Statistical hypothesis testing (NHST)](#statistical-hypothesis-testing-nhst)
     - [Posts and threads](#posts-and-threads-5)
       - [Bayesian Statistics](#bayesian-statistics-2)
-      - [Variable selection](#variable-selection)
+      - [Variable selection / Feature selection](#variable-selection--feature-selection)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-5)
       - [Bayesian Statistics](#bayesian-statistics-3)
       - [Stochastic Processes](#stochastic-processes)
@@ -468,9 +468,9 @@ An evergrowing, professionally curated list of resources on everything decision-
 #### Bayesian Statistics
 - Camara-Escudero, Mauro. Variational Auto-Encoders and the Expectation-Maximization Algorithm. Mauro Camara-Escudero, 2020. [[Link]](https://maurocamaraescudero.netlify.app/post/variational-auto-encoders-and-the-expectation-maximization-algorithm/)
 - Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
-#### Variable selection
+#### Variable selection / Feature selection
 - gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
-
+- Shtoff, Alex. “Are polynomial features the root of all evil?". Alex Shtoff, 2024. [[Link]](https://alexshtf.github.io/2024/01/21/Bernstein.html)
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Link]](https://bcirwis2021.github.io/schedule.html)
