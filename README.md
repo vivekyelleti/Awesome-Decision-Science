@@ -89,6 +89,7 @@ An evergrowing, professionally curated list of resources on everything decision-
     - [Datasets](#datasets-3)
     - [Packages](#packages-4)
       - [Optimization](#optimization-1)
+      - [Sensitivity analysis](#sensitivity-analysis)
     - [Papers](#papers-4)
     - [Posts and threads](#posts-and-threads-4)
       - [Optimization](#optimization-2)
@@ -345,6 +346,8 @@ An evergrowing, professionally curated list of resources on everything decision-
 - cvxpy. A Python-embedded modeling language for convex optimization problems. [[Link]](https://www.cvxpy.org/)
 - PyPortfolioOpt. Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity. [[Link]](https://github.com/robertmartin8/PyPortfolioOpt)
 - scikit-portfolio. A portfolio optimization tool with scikit-learn interface. Hyperparameters selection and easy plotting of efficient frontiers. [[Link]](https://scikit-portfolio.github.io/scikit-portfolio/)
+#### Sensitivity analysis
+- SALib. Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods. [[Link]](https://github.com/SALib/SALib)
 ### Papers
 ### Posts and threads
 #### Optimization
