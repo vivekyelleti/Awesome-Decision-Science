@@ -472,6 +472,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 #### Variable selection / Feature selection
 - gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
 - Shtoff, Alex. “Are polynomial features the root of all evil?". Alex Shtoff, 2024. [[Link]](https://alexshtf.github.io/2024/01/21/Bernstein.html)
+- Sribney, Bill. What are some of the problems with stepwise regression? StataCorp, 1996. [[Link]](https://www.stata.com/support/faqs/statistics/stepwise-regression-problems/)
 ### Talks, conferences, and videos
 #### Bayesian Statistics
 - Chopin, Nicolas, et al. "Bayesian Causal Inference for Real World Interactive Systems." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Link]](https://bcirwis2021.github.io/schedule.html)
