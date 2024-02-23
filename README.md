@@ -152,6 +152,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 #### Computational Intelligence
 - Engelbrecht, Andries P. Computational intelligence: an introduction. John Wiley & Sons, 2007. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470512517)
 #### Deep Learning
+- Bishop, Christopher M., and Hugh Bishop. "Deep learning: foundations and concepts." Springer, 2024. [[Link]](https://www.bishopbook.com/)
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. [[Link]](https://mml-book.github.io/)
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT Press, 2016. [[Link]](https://www.deeplearningbook.org/)
 - Grohs, Philipp, and Gitta Kutyniok, eds. Mathematical aspects of deep learning. Cambridge University Press, 2022. [[Link]](https://www.cambridge.org/core/books/mathematical-aspects-of-deep-learning/8D9B41D1E9BB8CA515E93412EECC2A7E)
