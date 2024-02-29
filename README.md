@@ -436,6 +436,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 - vectorbt. Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research. [[Link]](https://github.com/polakowo/vectorbt)
 #### R
 - Ross, Gordon J., and Dean Markwick. "dirichletprocess: An R package for fitting complex Bayesian nonparametric models." (2018). [[Link]](https://cloud.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf)
+- van Buuren, S., and K. Groothuis-Oudshoorn. “Mice: Multivariate Imputation by Chained Equations in R”. Journal of Statistical Software, vol. 45, no. 3, Dec. 2011, pp. 1-67, doi:10.18637/jss.v045.i03. [[Paper]](https://www.jstatsoft.org/article/view/v045i03)  [[Package]](https://cran.r-project.org/web/packages/mice/index.html)
 ### Papers
 #### Probabilistic Graphical Models and associated optimization techniques
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
