@@ -424,6 +424,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 #### Python
 ##### Time Series
 - Alexandrov, Alexander, et al. "Gluonts: Probabilistic and neural time series modeling in python." The Journal of Machine Learning Research 21.1 (2020): 4629-4634. [[Link]](https://ts.gluon.ai/stable/)
+- Salvador, Stan, and Philip Chan. "Toward accurate dynamic time warping in linear time and space." Intelligent Data Analysis 11.5 (2007): 561-580. [[Link]](https://github.com/slaypni/fastdtw)
 - Fold. Fast Adaptive Time Series ML Engine. [[Link]](https://dream-faster.github.io/fold/)
 - Functime. Time-series machine learning at scale. Built on Polars for embarrassingly parallel feature engineering and forecasts. [[Link]](https://github.com/neocortexdb/functime)
 - HierarchicalForecast. Probabilistic Hierarchical forecasting 👑 with statistical and econometric methods. [[Link]](https://nixtla.github.io/hierarchicalforecast/)
