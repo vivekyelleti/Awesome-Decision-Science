@@ -363,6 +363,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Judd, Kenneth. The Potential Partnership Between Economics and Computational Science. PyData Chicago, 2021. [[Link]](https://youtu.be/wcEktEN52tY?si=jr83xLEFTY7-5fRp)
 ### Machine Learning and Statistics
 - Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. [[Link]](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.pdf)
+- Harrell, Frank. "Classification vs. Prediction". Statistical Thinking, 2017. [[Link]](https://www.fharrell.com/post/classification/)
 ### Mathematics
 - Polya, George. How to solve it: A new aspect of mathematical method. Vol. 85. Princeton university press, 2004. [[Link]](https://press.princeton.edu/books/paperback/9780691164076/how-to-solve-it)
 ### Scientific approaches
